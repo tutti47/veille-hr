@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Veille H/R — Groupe Shaman</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --gold: #B8935A;
+  --gold-light: #D4B483;
+  --gold-pale: #F7F1E8;
+  --gold-border: rgba(184,147,90,0.25);
+  --bg: #FAFAF8;
+  --bg-card: #FFFFFF;
+  --bg-secondary: #F4F2ED;
+  --text-primary: #1A1916;
+  --text-secondary: #6B6760;
+  --text-muted: #A8A49E;
+  --border: rgba(26,25,22,0.08);
+  --border-strong: rgba(26,25,22,0.15);
+  --font-display: 'Cormorant Garamond', Georgia, serif;
+  --font-body: 'DM Sans', system-ui, sans-serif;
+  --radius: 8px;
+  --radius-lg: 14px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #141412;
+    --bg-card: #1E1D1A;
+    --bg-secondary: #242320;
+    --text-primary: #F0EDE8;
+    --text-secondary: #A8A49E;
+    --text-muted: #6B6760;
+    --border: rgba(240,237,232,0.08);
+    --border-strong: rgba(240,237,232,0.15);
+    --gold-pale: rgba(184,147,90,0.12);
+  }
+}
+
+html { font-size: 16px; }
+body { background: var(--bg); color: var(--text-primary); font-family: var(--font-body); font-weight: 400; line-height: 1.6; min-height: 100vh; }
+
+/* HEADER */
+.site-header { border-bottom: 0.5px solid var(--border-strong); padding: 0 clamp(1rem, 4vw, 3rem); }
+.header-inner { max-width: 1280px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; padding: 1.25rem 0; gap: 1rem; }
+.header-brand { display: flex; align-items: baseline; gap: 10px; }
+.header-title { font-family: var(--font-display); font-size: clamp(1.25rem, 2.5vw, 1.6rem); font-weight: 500; letter-spacing: 0.02em; color: var(--text-primary); }
+.header-title span { color: var(--gold); }
+.header-meta { font-size: 12px; color: var(--text-muted); font-weight: 300; letter-spacing: 0.04em; text-transform: uppercase; }
+.header-right { display: flex; align-items: center; gap: 12px; }
+.last-update { font-size: 12px; color: var(--text-muted); }
+.btn-refresh { font-family: var(--font-body); font-size: 12px; font-weight: 500; letter-spacing: 0.05em; text-transform: uppercase; padding: 7px 16px; background: transparent; border: 0.5px solid var(--border-strong); border-radius: var(--radius); cursor: pointer; color: var(--text-secondary); transition: all 0.2s; }
+.btn-refresh:hover { border-color: var(--gold); color: var(--gold); background: var(--gold-pale); }
+.btn-refresh.loading { opacity: 0.5; pointer-events: none; }
+
+/* MAIN */
+.main { max-width: 1280px; margin: 0 auto; padding: 2rem clamp(1rem, 4vw, 3rem); }
+
+/* STATS BAR */
+.stats-bar { display: flex; gap: 2rem; margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 0.5px solid var(--border); flex-wrap: wrap; }
+.stat-item { display: flex; flex-direction: column; gap: 2px; }
+.stat-n { font-family: var(--font-display); font-size: 2rem; font-weight: 500; color: var(--text-primary); line-height: 1; }
+.stat-l { font-size: 11px; text-transform: uppercase; letter-spacing: 0.08em; color: var(--text-muted); font-weight: 400; }
+.stat-divider { width: 0.5px; background: var(--border); align-self: stretch; }
+
+/* CONTROLS */
+.controls { display: flex; flex-direction: column; gap: 12px; margin-bottom: 2rem; }
+.search-row { display: flex; gap: 10px; align-items: center; }
+.search-wrap { position: relative; flex: 1; max-width: 480px; }
+.search-wrap input { width: 100%; padding: 9px 14px 9px 36px; font-family: var(--font-body); font-size: 14px; background: var(--bg-card); border: 0.5px solid var(--border-strong); border-radius: var(--radius); color: var(--text-primary); outline: none; transition: border-color 0.2s; }
+.search-wrap input:focus { border-color: var(--gold); }
+.search-wrap input::placeholder { color: var(--text-muted); }
+.search-icon { position: absolute; left: 11px; top: 50%; transform: translateY(-50%); color: var(--text-muted); font-size: 14px; pointer-events: none; }
+
+.filters-row { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
+.filter-label { font-size: 11px; text-transform: uppercase; letter-spacing: 0.08em; color: var(--text-muted); margin-right: 4px; white-space: nowrap; }
+.pill { font-family: var(--font-body); font-size: 12px; font-weight: 400; padding: 5px 14px; border-radius: 20px; border: 0.5px solid var(--border); cursor: pointer; color: var(--text-secondary); background: transparent; transition: all 0.15s; white-space: nowrap; }
+.pill:hover { border-color: var(--gold); color: var(--gold); }
+.pill.active { background: var(--gold-pale); border-color: var(--gold); color: #7A5C2E; font-weight: 500; }
+@media (prefers-color-scheme: dark) { .pill.active { color: var(--gold-light); } }
+
+.geo-row { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
+.geo-pill { font-family: var(--font-body); font-size: 11px; padding: 4px 12px; border-radius: 12px; border: 0.5px solid var(--border); cursor: pointer; color: var(--text-muted); background: transparent; transition: all 0.15s; }
+.geo-pill:hover { border-color: #378ADD; color: #185FA5; }
+.geo-pill.active { background: #E6F1FB; border-color: #378ADD; color: #185FA5; }
+@media (prefers-color-scheme: dark) { .geo-pill.active { background: rgba(55,138,221,0.15); } }
+
+/* GRID */
+.cards-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 14px; }
+
+.card { background: var(--bg-card); border: 0.5px solid var(--border); border-radius: var(--radius-lg); padding: 1.25rem; cursor: pointer; transition: border-color 0.2s, transform 0.15s; display: flex; flex-direction: column; gap: 10px; }
+.card:hover { border-color: var(--gold); transform: translateY(-1px); }
+.card.alert { border-color: var(--gold-border); background: linear-gradient(135deg, var(--bg-card) 0%, var(--gold-pale) 100%); }
+
+.card-top { display: flex; align-items: flex-start; justify-content: space-between; gap: 8px; }
+.card-tags { display: flex; gap: 4px; flex-wrap: wrap; }
+.tag { font-size: 10px; font-weight: 500; text-transform: uppercase; letter-spacing: 0.06em; padding: 2px 8px; border-radius: 10px; }
+.tag-tendance { background: #EAF3DE; color: #2E5A0A; }
+.tag-concurrence { background: #FAECE7; color: #7A2E15; }
+.tag-innovation { background: #EEEDFE; color: #3C3489; }
+.tag-ouverture { background: #E1F5EE; color: #085041; }
+.tag-gastronomie { background: #FAEEDA; color: #633806; }
+.tag-mice { background: #E6F1FB; color: #0C447C; }
+@media (prefers-color-scheme: dark) {
+  .tag-tendance { background: rgba(99,153,34,0.2); color: #97C459; }
+  .tag-concurrence { background: rgba(216,90,48,0.2); color: #F0997B; }
+  .tag-innovation { background: rgba(127,119,221,0.2); color: #AFA9EC; }
+  .tag-ouverture { background: rgba(29,158,117,0.2); color: #5DCAA5; }
+  .tag-gastronomie { background: rgba(186,117,23,0.2); color: #FAC775; }
+  .tag-mice { background: rgba(55,138,221,0.2); color: #85B7EB; }
+}
+
+.card-meta-right { display: flex; align-items: center; gap: 6px; flex-shrink: 0; }
+.card-geo { font-size: 11px; color: var(--text-muted); }
+.alert-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--gold); flex-shrink: 0; }
+
+.card-title { font-family: var(--font-display); font-size: 1rem; font-weight: 500; color: var(--text-primary); line-height: 1.35; }
+.card-source { font-size: 11px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.06em; }
+.card-excerpt { font-size: 13px; color: var(--text-secondary); line-height: 1.6; flex: 1; }
+.card-footer { display: flex; align-items: center; justify-content: space-between; margin-top: auto; }
+.card-date { font-size: 11px; color: var(--text-muted); }
+.card-cta { font-size: 11px; color: var(--gold); opacity: 0; transition: opacity 0.15s; font-weight: 500; }
+.card:hover .card-cta { opacity: 1; }
+
+/* EMPTY / LOADING */
+.state-box { grid-column: 1/-1; text-align: center; padding: 4rem 1rem; }
+.state-icon { font-family: var(--font-display); font-size: 3rem; color: var(--border-strong); margin-bottom: 1rem; }
+.state-text { font-size: 14px; color: var(--text-muted); }
+.spinner { display: inline-block; width: 20px; height: 20px; border: 1.5px solid var(--border-strong); border-top-color: var(--gold); border-radius: 50%; animation: spin 0.8s linear infinite; vertical-align: middle; margin-right: 8px; }
+@keyframes spin { to { transform: rotate(360deg); } }
+
+/* FOOTER */
+.site-footer { border-top: 0.5px solid var(--border); padding: 1.25rem clamp(1rem, 4vw, 3rem); margin-top: 3rem; }
+.footer-inner { max-width: 1280px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 8px; }
+.footer-text { font-size: 11px; color: var(--text-muted); letter-spacing: 0.04em; }
+
+/* RESPONSIVE */
+@media (max-width: 600px) {
+  .header-inner { flex-direction: column; align-items: flex-start; }
+  .stats-bar { gap: 1.25rem; }
+  .stat-divider { display: none; }
+  .cards-grid { grid-template-columns: 1fr; }
+}
+</style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <div class="header-brand">
+      <div>
+        <div class="header-title">Veille <span>H&R</span></div>
+        <div class="header-meta">Groupe Shaman — Intelligence sectorielle</div>
+      </div>
+    </div>
+    <div class="header-right">
+      <span class="last-update" id="last-update">Chargement…</span>
+      <button class="btn-refresh" id="btn-refresh" onclick="loadFeed()">Actualiser</button>
+    </div>
+  </div>
+</header>
+
+<main class="main">
+  <div class="stats-bar">
+    <div class="stat-item"><div class="stat-n" id="stat-total">—</div><div class="stat-l">Signaux</div></div>
+    <div class="stat-divider"></div>
+    <div class="stat-item"><div class="stat-n" id="stat-alert">—</div><div class="stat-l">Alertes prioritaires</div></div>
+    <div class="stat-divider"></div>
+    <div class="stat-item"><div class="stat-n" id="stat-pdl">—</div><div class="stat-l">Pays de la Loire</div></div>
+    <div class="stat-divider"></div>
+    <div class="stat-item"><div class="stat-n" id="stat-intl">—</div><div class="stat-l">International</div></div>
+  </div>
+
+  <div class="controls">
+    <div class="search-row">
+      <div class="search-wrap">
+        <span class="search-icon">⌕</span>
+        <input type="text" id="search-input" placeholder="Rechercher un concept, une marque, une destination…" oninput="applyFilters()" />
+      </div>
+    </div>
+    <div class="filters-row">
+      <span class="filter-label">Thème</span>
+      <button class="pill active" data-cat="all" onclick="setCat(this,'all')">Tout</button>
+      <button class="pill" data-cat="tendance" onclick="setCat(this,'tendance')">Tendances</button>
+      <button class="pill" data-cat="concurrence" onclick="setCat(this,'concurrence')">Concurrence</button>
+      <button class="pill" data-cat="innovation" onclick="setCat(this,'innovation')">Innovation</button>
+      <button class="pill" data-cat="ouverture" onclick="setCat(this,'ouverture')">Ouvertures</button>
+      <button class="pill" data-cat="gastronomie" onclick="setCat(this,'gastronomie')">Gastronomie</button>
+      <button class="pill" data-cat="mice" onclick="setCat(this,'mice')">MICE & Événements</button>
+    </div>
+    <div class="geo-row">
+      <span class="filter-label">Zone</span>
+      <button class="geo-pill active" data-geo="all" onclick="setGeo(this,'all')">Toutes zones</button>
+      <button class="geo-pill" data-geo="france" onclick="setGeo(this,'france')">France</button>
+      <button class="geo-pill" data-geo="europe" onclick="setGeo(this,'europe')">Europe</button>
+      <button class="geo-pill" data-geo="international" onclick="setGeo(this,'international')">International</button>
+    </div>
+  </div>
+
+  <div class="cards-grid" id="cards-grid">
+    <div class="state-box"><span class="spinner"></span><span class="state-text">Chargement des signaux…</span></div>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <span class="footer-text">Groupe Shaman — Usage interne</span>
+    <span class="footer-text" id="footer-count"></span>
+  </div>
+</footer>
+
+<script>
+const CAT_LABELS = { tendance:'Tendance', concurrence:'Concurrence', innovation:'Innovation', ouverture:'Ouverture', gastronomie:'Gastronomie', mice:'MICE & Événements' };
+let allItems = [];
+let activeCat = 'all';
+let activeGeo = 'all';
+
+async function loadFeed() {
+  const btn = document.getElementById('btn-refresh');
+  btn.textContent = 'Actualisation…';
+  btn.classList.add('loading');
+  try {
+    const res = await fetch('feed.json?t=' + Date.now());
+    if (!res.ok) throw new Error('feed.json introuvable');
+    const data = await res.json();
+    allItems = data.items || [];
+    const updated = data.updated ? new Date(data.updated) : new Date();
+    document.getElementById('last-update').textContent = 'Mis à jour le ' + updated.toLocaleDateString('fr-FR', { day:'numeric', month:'long', hour:'2-digit', minute:'2-digit' });
+    applyFilters();
+  } catch(e) {
+    document.getElementById('cards-grid').innerHTML = '<div class="state-box"><div class="state-icon">◎</div><div class="state-text">Impossible de charger feed.json.<br>Lance le script Python ou GitHub Actions.</div></div>';
+  } finally {
+    btn.textContent = 'Actualiser';
+    btn.classList.remove('loading');
+  }
+}
+
+function setCat(btn, cat) {
+  document.querySelectorAll('.pill').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  activeCat = cat;
+  applyFilters();
+}
+
+function setGeo(btn, geo) {
+  document.querySelectorAll('.geo-pill').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  activeGeo = geo;
+  applyFilters();
+}
+
+function applyFilters() {
+  const q = document.getElementById('search-input').value.toLowerCase().trim();
+  let filtered = allItems;
+  if (activeCat !== 'all') filtered = filtered.filter(d => d.cat === activeCat);
+  if (activeGeo !== 'all') filtered = filtered.filter(d => d.geo === activeGeo);
+  if (q) filtered = filtered.filter(d =>
+    (d.title||'').toLowerCase().includes(q) ||
+    (d.excerpt||'').toLowerCase().includes(q) ||
+    (d.source||'').toLowerCase().includes(q) ||
+    (d.geo_label||'').toLowerCase().includes(q)
+  );
+  renderCards(filtered);
+  updateStats(filtered);
+}
+
+function renderCards(items) {
+  const grid = document.getElementById('cards-grid');
+  if (!items.length) {
+    grid.innerHTML = '<div class="state-box"><div class="state-icon">◎</div><div class="state-text">Aucun signal pour ces filtres.</div></div>';
+    return;
+  }
+  grid.innerHTML = items.map(d => `
+    <article class="card ${d.alert ? 'alert' : ''}" onclick="openItem('${encodeURIComponent(d.link||'')}', '${encodeURIComponent(d.title||'')}', '${encodeURIComponent((d.excerpt||'').substring(0,200))}')">
+      <div class="card-top">
+        <div class="card-tags"><span class="tag tag-${d.cat}">${CAT_LABELS[d.cat]||d.cat}</span></div>
+        <div class="card-meta-right">
+          <span class="card-geo">${d.geo_label||''}</span>
+          ${d.alert ? '<span class="alert-dot"></span>' : ''}
+        </div>
+      </div>
+      <h2 class="card-title">${escHtml(d.title||'')}</h2>
+      <div class="card-source">${escHtml(d.source||'')}</div>
+      <p class="card-excerpt">${escHtml((d.excerpt||'').substring(0,220))}${d.excerpt && d.excerpt.length > 220 ? '…' : ''}</p>
+      <div class="card-footer">
+        <span class="card-date">${d.date||''}</span>
+        <span class="card-cta">Lire l'article →</span>
+      </div>
+    </article>
+  `).join('');
+}
+
+function updateStats(filtered) {
+  document.getElementById('stat-total').textContent = filtered.length;
+  document.getElementById('stat-alert').textContent = filtered.filter(d=>d.alert).length;
+  document.getElementById('stat-pdl').textContent = filtered.filter(d=>(d.geo_label||'').toLowerCase().includes('loire') || (d.geo_label||'').toLowerCase().includes('anjou') || (d.geo_label||'').toLowerCase().includes('vendée') || (d.geo_label||'').toLowerCase().includes('nantes') || (d.geo_label||'').toLowerCase().includes('briollay') || (d.geo_label||'').toLowerCase().includes('vertou')).length;
+  document.getElementById('stat-intl').textContent = filtered.filter(d=>d.geo==='international').length;
+  document.getElementById('footer-count').textContent = filtered.length + ' signal' + (filtered.length > 1 ? 's' : '') + ' affichés';
+}
+
+function openItem(encodedLink, encodedTitle, encodedExcerpt) {
+  const link = decodeURIComponent(encodedLink);
+  const title = decodeURIComponent(encodedTitle);
+  const excerpt = decodeURIComponent(encodedExcerpt);
+  if (link && link !== 'undefined') {
+    window.open(link, '_blank', 'noopener');
+  }
+}
+
+function escHtml(str) {
+  return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+loadFeed();
+</script>
+</body>
+</html>

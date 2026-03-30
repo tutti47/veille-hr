@@ -1,1 +1,35 @@
+name: Actualisation veille H/R
 
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install feedparser
+
+      - name: Fetch feeds
+        run: python fetch_feed.py
+
+      - name: Commit feed.json
+        run: |
+          git config user.name "veille-bot"
+          git config user.email "bot@veille-hr"
+          git add feed.json
+          git diff --staged --quiet || git commit -m "feed: actualisation $(date -u '+%Y-%m-%d %H:%M') UTC"
+          git push

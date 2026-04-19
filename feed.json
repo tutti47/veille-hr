@@ -1,6 +1,19 @@
 {
-  "updated": "2026-04-18T06:55:55.411219+00:00",
+  "updated": "2026-04-19T07:06:00.243956+00:00",
   "items": [
+    {
+      "id": "bbf4c8afc93fdd068ad1a2630950d9bf",
+      "title": "Marriott Launches Autograph Collection in India: Exclusive",
+      "source": "Skift",
+      "link": "https://skift.com/2026/04/18/marriott-autograph-collection-india-karnal-palace/",
+      "excerpt": "Karnal city in Haryana may not be the first place that comes to mind when you think of Marriott or the Autograph Collection. But that, it turns out, is exactly the point.",
+      "cat": "innovation",
+      "geo": "international",
+      "geo_label": "International",
+      "date": "Il y a 21h",
+      "iso_date": "2026-04-18T09:50:00+00:00",
+      "alert": false
+    },
     {
       "id": "836c5b8727eefcb7be826729746fcf7c",
       "title": "American Airlines Rejects United Merger Talk: ‘Not Interested’",
@@ -10,7 +23,7 @@
       "cat": "innovation",
       "geo": "international",
       "geo_label": "International",
-      "date": "Il y a 7h",
+      "date": "Il y a 1 j",
       "iso_date": "2026-04-17T22:56:39+00:00",
       "alert": false
     },
@@ -23,7 +36,7 @@
       "cat": "tendance",
       "geo": "international",
       "geo_label": "International",
-      "date": "Il y a 11h",
+      "date": "Il y a 1 j",
       "iso_date": "2026-04-17T19:41:00+00:00",
       "alert": false
     },
@@ -36,7 +49,7 @@
       "cat": "tendance",
       "geo": "international",
       "geo_label": "International",
-      "date": "Il y a 12h",
+      "date": "Il y a 1 j",
       "iso_date": "2026-04-17T18:29:59+00:00",
       "alert": false
     },
@@ -49,7 +62,7 @@
       "cat": "innovation",
       "geo": "international",
       "geo_label": "International",
-      "date": "Il y a 13h",
+      "date": "Il y a 1 j",
       "iso_date": "2026-04-17T17:18:54+00:00",
       "alert": false
     },
@@ -62,7 +75,7 @@
       "cat": "tendance",
       "geo": "international",
       "geo_label": "International",
-      "date": "Il y a 13h",
+      "date": "Il y a 1 j",
       "iso_date": "2026-04-17T17:15:55+00:00",
       "alert": false
     },
@@ -75,7 +88,7 @@
       "cat": "tendance",
       "geo": "international",
       "geo_label": "International",
-      "date": "Il y a 13h",
+      "date": "Il y a 1 j",
       "iso_date": "2026-04-17T17:08:38+00:00",
       "alert": false
     },
@@ -88,21 +101,8 @@
       "cat": "ouverture",
       "geo": "international",
       "geo_label": "International",
-      "date": "Il y a 13h",
+      "date": "Il y a 1 j",
       "iso_date": "2026-04-17T17:08:06+00:00",
-      "alert": false
-    },
-    {
-      "id": "e86a12e4e91dafc2581456c3b9b05cca",
-      "title": "New Research: Why Hotel Loyalty Is No Longer Just a Marketing Tool",
-      "source": "Skift",
-      "link": "https://skift.com/2026/04/17/gha-2026-loyalty-report/",
-      "excerpt": "Hotel loyalty programs are evolving from points systems into commercial engines that influence booking behavior, guest spend, and brand choice. New data shows travelers want simplicity, relevance, and meaningful value, not complexity or novelty.",
-      "cat": "innovation",
-      "geo": "international",
-      "geo_label": "International",
-      "date": "Il y a 16h",
-      "iso_date": "2026-04-17T14:00:00+00:00",
       "alert": false
     },
     {
@@ -114,7 +114,7 @@
       "cat": "tendance",
       "geo": "france",
       "geo_label": "France",
-      "date": "Il y a 17h",
+      "date": "Il y a 1 j",
       "iso_date": "2026-04-17T12:56:00+00:00",
       "alert": false
     },
@@ -127,7 +127,7 @@
       "cat": "concurrence",
       "geo": "france",
       "geo_label": "France",
-      "date": "Il y a 18h",
+      "date": "Il y a 1 j",
       "iso_date": "2026-04-17T12:00:33+00:00",
       "alert": true
     },
@@ -140,7 +140,7 @@
       "cat": "ouverture",
       "geo": "france",
       "geo_label": "France",
-      "date": "Il y a 20h",
+      "date": "Il y a 1 j",
       "iso_date": "2026-04-17T09:57:00+00:00",
       "alert": false
     },
@@ -153,7 +153,7 @@
       "cat": "ouverture",
       "geo": "france",
       "geo_label": "France",
-      "date": "Il y a 23h",
+      "date": "Il y a 2 j",
       "iso_date": "2026-04-17T07:04:00+00:00",
       "alert": false
     },
@@ -166,7 +166,7 @@
       "cat": "concurrence",
       "geo": "international",
       "geo_label": "International",
-      "date": "Il y a 1 j",
+      "date": "Il y a 2 j",
       "iso_date": "2026-04-16T20:17:39+00:00",
       "alert": false
     },
@@ -179,7 +179,7 @@
       "cat": "tendance",
       "geo": "france",
       "geo_label": "Loire-Atlantique",
-      "date": "Il y a 1 j",
+      "date": "Il y a 2 j",
       "iso_date": "2026-04-16T16:55:47+00:00",
       "alert": true
     },
@@ -192,9 +192,22 @@
       "cat": "tendance",
       "geo": "france",
       "geo_label": "Loire-Atlantique",
-      "date": "Il y a 1 j",
+      "date": "Il y a 2 j",
       "iso_date": "2026-04-16T16:55:00+00:00",
       "alert": true
+    },
+    {
+      "id": "03b1d71696a10132c17f4b83218221ae",
+      "title": "The White Lotus pose ses valises à Saint-Tropez : voici le somptueux château qui servira de décor à la saison 4 - grazia.fr",
+      "source": "Google News",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPN3l1eC05Q1hDUkxRSDk3MzBjUlZycUZSb1BhQjk5TERFVGpKcUI2M3dvWG0wQWcxMVNtVkcxZ05PSk1oYXJ3ZzlGUG9mRmMzc3piR0h6NTA2LU5zVHpuVmNMdHR1Nm1zUTlFVjZwQU9FWFVMczZxOWRvTFZqM053NGRvb3dEMVpDOVJvQl8yM0ZLZHBXdUdLVFV5dHkyc1FDc21tRk5QbWpZYmtJelladlBadVVxZ19sRmlLOTFHeFE3dE1LRVhSTHkybDY2bjhodDA4LUVSSndRT3BmZDNBMk9MYTF2T3ZWcjZXTFRvSXhUaEFvRENpU2FHQzZzWWc?oc=5",
+      "excerpt": "The White Lotus pose ses valises à Saint-Tropez : voici le somptueux château qui servira de décor à la saison 4&nbsp;&nbsp;grazia.fr",
+      "cat": "innovation",
+      "geo": "france",
+      "geo_label": "France",
+      "date": "Il y a 2 j",
+      "iso_date": "2026-04-16T10:52:06+00:00",
+      "alert": false
     },
     {
       "id": "fa0782aba5b9a502282c76971926f272",
@@ -205,7 +218,7 @@
       "cat": "innovation",
       "geo": "france",
       "geo_label": "France",
-      "date": "Il y a 1 j",
+      "date": "Il y a 2 j",
       "iso_date": "2026-04-16T08:42:00+00:00",
       "alert": false
     },
@@ -218,7 +231,7 @@
       "cat": "tendance",
       "geo": "france",
       "geo_label": "France",
-      "date": "Il y a 2 j",
+      "date": "Il y a 3 j",
       "iso_date": "2026-04-15T14:13:00+00:00",
       "alert": false
     },
@@ -231,7 +244,7 @@
       "cat": "tendance",
       "geo": "international",
       "geo_label": "International",
-      "date": "Il y a 2 j",
+      "date": "Il y a 3 j",
       "iso_date": "2026-04-15T14:00:33+00:00",
       "alert": false
     },
@@ -244,7 +257,7 @@
       "cat": "innovation",
       "geo": "france",
       "geo_label": "France",
-      "date": "Il y a 2 j",
+      "date": "Il y a 3 j",
       "iso_date": "2026-04-15T12:08:00+00:00",
       "alert": false
     },
@@ -257,7 +270,7 @@
       "cat": "ouverture",
       "geo": "france",
       "geo_label": "France",
-      "date": "Il y a 3 j",
+      "date": "Il y a 4 j",
       "iso_date": "2026-04-15T06:25:00+00:00",
       "alert": false
     },
@@ -270,8 +283,21 @@
       "cat": "concurrence",
       "geo": "international",
       "geo_label": "International",
-      "date": "Il y a 3 j",
+      "date": "Il y a 4 j",
       "iso_date": "2026-04-14T17:49:19+00:00",
+      "alert": false
+    },
+    {
+      "id": "cf289f06b2995b8912415f5c4b1546a7",
+      "title": "River Cruise Fleet Expansion 2026–2028: Global Tourism Set for a Luxury Boom with New Ships, Upgraded Fleets, and Sustainable Travel Innovation - Travel And Tour World",
+      "source": "Google News",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNcHRyaC1EVmluT1dkVTc2ZE1ydWhPNlN3cWVwUWFxVk82N2hDQmh6Yk5EcS1BYmpqQUhtTXlndnNxT1N6aC1pYS0xS3FBZ2lwTzNxX19pa1JEclhqdVZ5c0h0bWppbWxtM2NHT2xXdC04U1dsZEdqNVNVY0hGZExmSEVTSkhXVjk1U2taODJiSTlBSnJaWURpZUFRMWJWSHFEaDFpeFBjTG1XYnVYelFXWk5xcXlmS3VfYkl3cTF3WFpscEs5eDlqX0FyVGV3cW9uTmNsTi1FclpRTklReFpEa1M3Ukd0UUpoSFFUYzczRTNJMFMyWW1NbkFsVGtFNGVNYnp4SlpyZng4Y2NWOVN5X08wRFo2dFlp?oc=5",
+      "excerpt": "River Cruise Fleet Expansion 2026–2028: Global Tourism Set for a Luxury Boom with New Ships, Upgraded Fleets, and Sustainable Travel Innovation&nbsp;&nbsp;Travel And Tour World",
+      "cat": "innovation",
+      "geo": "international",
+      "geo_label": "International",
+      "date": "Il y a 4 j",
+      "iso_date": "2026-04-14T17:20:40+00:00",
       "alert": false
     },
     {
@@ -283,21 +309,8 @@
       "cat": "concurrence",
       "geo": "international",
       "geo_label": "International",
-      "date": "Il y a 4 j",
+      "date": "Il y a 5 j",
       "iso_date": "2026-04-14T03:09:27+00:00",
-      "alert": false
-    },
-    {
-      "id": "71cc35d98418ab095fa67432d8eb0f14",
-      "title": "Watch: Miami’s Mandarin Oriental hotel collapses in less than 20 seconds - The Independent",
-      "source": "Google News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSHVlekRJckl3dWNGbHJYTmtxOUVIVGlyVXhzMWVRTlF0TjRkcjBNUVZ1cVFxeXVjWWt5T3IwTUJQdHEtSzF2VV9ZX0xzZ0E0WGoyRkdyUmw3OGMxbTBsUGJHNEprLS1BaExWUVVGTGRfYThtTEhTTHQtb0lqZnZ2WXdOSTlhTUdnNC1FRzEzNlAycGhkRUxBY05oYUhvMnc?oc=5",
-      "excerpt": "Watch: Miami’s Mandarin Oriental hotel collapses in less than 20 seconds&nbsp;&nbsp;The Independent",
-      "cat": "concurrence",
-      "geo": "international",
-      "geo_label": "International",
-      "date": "Il y a 4 j",
-      "iso_date": "2026-04-13T15:56:00+00:00",
       "alert": false
     },
     {
@@ -309,7 +322,7 @@
       "cat": "innovation",
       "geo": "international",
       "geo_label": "International",
-      "date": "Il y a 4 j",
+      "date": "Il y a 5 j",
       "iso_date": "2026-04-13T14:29:45+00:00",
       "alert": false
     },
@@ -322,7 +335,7 @@
       "cat": "concurrence",
       "geo": "international",
       "geo_label": "International",
-      "date": "Il y a 4 j",
+      "date": "Il y a 5 j",
       "iso_date": "2026-04-13T12:18:00+00:00",
       "alert": false
     },
@@ -335,7 +348,7 @@
       "cat": "tendance",
       "geo": "france",
       "geo_label": "Loire-Atlantique",
-      "date": "Il y a 4 j",
+      "date": "Il y a 5 j",
       "iso_date": "2026-04-13T10:48:00+00:00",
       "alert": true
     },
@@ -348,9 +361,35 @@
       "cat": "concurrence",
       "geo": "france",
       "geo_label": "France",
-      "date": "Il y a 4 j",
+      "date": "Il y a 5 j",
       "iso_date": "2026-04-13T09:19:49+00:00",
       "alert": true
+    },
+    {
+      "id": "469a43e5212717c52ae2d1c3dd2864fa",
+      "title": "The Mandarin Oriental is gone. Say hello to The Residences at Mandarin Oriental - NBC 6 South Florida",
+      "source": "Google News",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYld6SWJvM0R4aVprcmQtemk1N2JicDZKSnhKNlEyZlR0QzVsUkxrLWRNRW5DQzZQQUFWU3dFV081TVdQM3FqaUlmS0pxV1hTSFFUMEFhNjV3MTdoVDBjQzJQYlVSamVSdDNJc1lYa1drRUtxMUNRNl9ESmk1UEFqRi1tN3hYaUVVOFRFaXVqZ0RkQy1EXzJMdm9ESGkzSzBnSUVrcXRjZzdFRl9kSm40M20xczdGcDhLUGRpVEJWcWLSAcgBQVVfeXFMTWI4emh0Rm03b3BQVmw2NjNUTXlFd2xxS0p4elQ3WVo1aVliWV8zS0kxMnJzUkhXMDFiUzRQbzRiOGprZGsyZlp5eE9mSzZxLXMyZk1MVk9MbGY1VDhKUDlyNW5NTk1zc2lheDg3YVBLcFFwMzM5VGhubU5zbkpnT0wwX2ozbUNUaUdmNC1vZ190Qzl4TGJWNVR3M0pnNkRSQ0dBU0pkb0g1NzBtcnptNzNhX0FQWVRoZlhNb29GSW1PZ3ptczdrQl8?oc=5",
+      "excerpt": "The Mandarin Oriental is gone. Say hello to The Residences at Mandarin Oriental&nbsp;&nbsp;NBC 6 South Florida",
+      "cat": "concurrence",
+      "geo": "international",
+      "geo_label": "International",
+      "date": "Il y a 6 j",
+      "iso_date": "2026-04-12T16:23:57+00:00",
+      "alert": false
+    },
+    {
+      "id": "4939eee319cda250989e053277d2bc37",
+      "title": "Iconic Mandarin Oriental Hotel demolished - CNN",
+      "source": "Google News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT2p0Q01xT2JyaWhPSjFjWi1jbWVEb1FmdmRmaFF6aF9zNVFLZ0R5Sm1VamFoeGtCT2NUX0VfS1pLOFF1NUc0aTBhdzl6OVRGUGEtVC1ELUdxZkxKQVprbHJMSEw2UGZHU2dXLUpnRk4tNVRGdTJhaWN5TTdaeWQ0MnF2eGlLLTd3NkFhbUhEa3A?oc=5",
+      "excerpt": "Iconic Mandarin Oriental Hotel demolished&nbsp;&nbsp;CNN",
+      "cat": "concurrence",
+      "geo": "international",
+      "geo_label": "International",
+      "date": "Il y a 6 j",
+      "iso_date": "2026-04-12T14:15:06+00:00",
+      "alert": false
     },
     {
       "id": "60f21259cd61b31789157cf4b32d107f",
@@ -361,22 +400,22 @@
       "cat": "concurrence",
       "geo": "international",
       "geo_label": "International",
-      "date": "Il y a 5 j",
+      "date": "Il y a 6 j",
       "iso_date": "2026-04-12T13:36:00+00:00",
       "alert": false
     },
     {
-      "id": "be3e69fd4f385610c690c5bafc623c1d",
-      "title": "Video shows implosion of Mandarin Oriental, Miami hotel on Brickell Key - NBC 6 South Florida",
+      "id": "e0b57964a3f0d599a623e44e99cbbca8",
+      "title": "« Partir en vacances, c’est devenu un luxe » : reportage sur l’aire d’autoroute de Vertou, en temps de crise pétrolière - - La Roche sur Yon.maville.com",
       "source": "Google News",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa1MtYlhmSERlRzFUQVVEMngxOGo3MjRWVkNWOVppMldoSjVyTEV3Y3dPS1Q5QURtUDQtN1dYUElYR1A1aXh2WFBOZU5HdlpDcU9rYXdreDR6UklwZEJETXlXQVVlbU5QeDhCYVNKejVTQXpCWnkxSkptSVR0YnZDNHhpT0pBcVFjcEJ5Zm1XaWF0cVFjekRLb2JYd3BPcFk2ZHhmSVVxdXNRZk8yejZHVFhKdTFnOXFrSGx2cDJ30gHGAUFVX3lxTE9zYWtDMmZTa3BnWkZINFlZMXpoMFlMRURLQ184NmNzWEtQM1B5M3BBc1JjbGhMOENPQXhoRTNWZmIyS3JBbDZ1UGlzNVVoN2VWdHpCWGk3WnVucGhMMlZ4TGkxNXlIMEljTDZlSWEzbmM0STU2OU94QV9mV3AtbUNlbFNaY2xIVlpKaUlqeFdUOFRWbkd2QXZncFhQajE2dXd5bWVOeWdrTjVpQU5FdzNJa2lyS25yMFM3VWR5WDNpcHFQdHFCUQ?oc=5",
-      "excerpt": "Video shows implosion of Mandarin Oriental, Miami hotel on Brickell Key&nbsp;&nbsp;NBC 6 South Florida",
-      "cat": "concurrence",
-      "geo": "international",
-      "geo_label": "International",
-      "date": "Il y a 5 j",
-      "iso_date": "2026-04-12T12:45:20+00:00",
-      "alert": false
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOVW1KbDc1MmNxVUFvWjg1bXNNalE4bHNCUjA5bkJnN2dyTjBIUmc2X0JSMzFYT3o3alFuWEg4WGZ5WDBiNlRZODROZTZaR2hSOW5leGR3Vk1OVmhpcFlKUXBsZ0NoUjE1RG43M2RhNEFwdjFZZV90a2RKalZ1QVdHQWgzZnZDWlRBdzdqWE1iT05vSG9WYXVlX0ZKQ2F4Y0xvZTNRWm9nc1E3dUw4UWpnekFTQjN0T2syN2N2SFY3UjF2TDd1OU9tRWZwRFpkOXR1dHhBdFNDdFNZS2UyOWx5YlFFTm9CRWhLcUY1M1M2bDNtaG16REltbWtsT2U5OUpGbTRSbGhlNE5TWlNRdGlB?oc=5",
+      "excerpt": "« Partir en vacances, c’est devenu un luxe » : reportage sur l’aire d’autoroute de Vertou, en temps de crise pétrolière&nbsp;&nbsp;- La Roche sur Yon.maville.com",
+      "cat": "tendance",
+      "geo": "france",
+      "geo_label": "Vendée",
+      "date": "Il y a 6 j",
+      "iso_date": "2026-04-12T07:47:00+00:00",
+      "alert": true
     },
     {
       "id": "c8768fcea09d27a62bfd5f1dc5d92909",
@@ -387,6 +426,19 @@
       "cat": "ouverture",
       "geo": "france",
       "geo_label": "France",
+      "date": "10/04/2026",
+      "iso_date": "2026-04-10T07:00:00+00:00",
+      "alert": false
+    },
+    {
+      "id": "002ee804d183f17e6bcf3ab4908dca47",
+      "title": "Hospitality Horizons 2026: The Top 5 Trends Shaping Travel & Hotels - Hospitality Net",
+      "source": "Google News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMkR0MWdSZmJoNWhyVzB2UlY2eXlnT2ttZ1ZxTHlqLWZoMVRfeGFpMTAzN2ZFZWltWnNXVUJoemcwSThudzNNRVk0R0t5LVFub3BrSHlneVlpSU1MOXdYVTdwVWNpRUJaNVNqREF1YUN2QVRNSC1hbkJtZnBycGNHc1RzQ3pOZkVUNzRwYzJiOEJKVm56LUF4MXlVaXA5ZTRPM00tdEI2dVo4X2xiLWdPOQ?oc=5",
+      "excerpt": "Hospitality Horizons 2026: The Top 5 Trends Shaping Travel & Hotels&nbsp;&nbsp;Hospitality Net",
+      "cat": "tendance",
+      "geo": "international",
+      "geo_label": "International",
       "date": "10/04/2026",
       "iso_date": "2026-04-10T07:00:00+00:00",
       "alert": false
@@ -428,19 +480,6 @@
       "geo_label": "France",
       "date": "07/04/2026",
       "iso_date": "2026-04-07T08:00:00+00:00",
-      "alert": false
-    },
-    {
-      "id": "0440b543def0af9f885bcc9d894facdc",
-      "title": "Blank Rome LLP Partners with 2026 Boutique Hotel Investment Conference, Shaping Hospitality’s Future Through Sustainable Growth, Digital Transformation and Innovation - Travel And Tour World",
-      "source": "Google News",
-      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPdmxhUlE4enRFWk5TaGloaXBmU0thVDFtSEVmbGtmOWpLT09GUHI3Tms4ZDFoYUJ4QmxhNThqeDc1SEV3UVNmRmR4MldNZ0VpSDVDSUtQVXFhUzRORlVxQTJJUkh6dV9hbThlQlNacFNOMkVwTERjTmtfaGVlX25QM1c2U3RTREpyTkRGMjdvOHJKU1JTRUpPMHBlOHNKWDV1YjJkUWlVXzlZUHJQWGpYVzZPSG8tc3NLSFIzUlpLUkNBMkJRZ2RRcmxIcUlsbDNMYzdMSmpJNVE2ZkFpRXFzNlgtTmVGUFNjbGxuMjFOVkZyX0tIeWtNdlJId013QUY1ZmJVUVZETTNBSmlhUmRETl8tZmNCeUVoRlIxODBUVkRnSFFITEcwUlZLeVViVDhkUzlfMDYtaw?oc=5",
-      "excerpt": "Blank Rome LLP Partners with 2026 Boutique Hotel Investment Conference, Shaping Hospitality’s Future Through Sustainable Growth, Digital Transformation and Innovation&nbsp;&nbsp;Travel And Tour World",
-      "cat": "innovation",
-      "geo": "international",
-      "geo_label": "International",
-      "date": "06/04/2026",
-      "iso_date": "2026-04-06T20:39:21+00:00",
       "alert": false
     },
     {
@@ -548,19 +587,6 @@
       "alert": true
     },
     {
-      "id": "afeed1ab4e83fd497780d1e7eb118a77",
-      "title": "Le Guide MICHELIN lance un grand jeu concours – Identifiez les restaurants qui seront distingués d&r... - Food & Sens",
-      "source": "Google News",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQdk03THQyWjFHODdCWnotZUVobTdzbkdZZ1VOMmVvWDZnaGJZVEJma0lQbXhlZ0N2cEk3NGdzTzJCVkwzd0RCSzA2R2NtSVBza2xRcTNrOWtoZFhXQkpDUjZuQzkwakxjTk1INzFVM1lOMEFhVVdhdzNKNzdZVVBQYnZQVmo2cXNXMFh2YVA5UnQxaEF0cUdhT084SjRKbFE0Y1Vpam9KYWw0ZWFQZnI0UDJhOS1vemZQckZRSEc4UFFQb2t6WExnTzREYmhNMGI4LW5jMFdISFZuTE96YXE0WWpjU3lKeGM5N3JiWW16SnJPYTV5eTV6cU9vc3dENFBYLTRZ0gGDAkFVX3lxTFB2TTdMdDJaMUc4N0Jaei1lRWhtN3NuR1lnVU4yZW9YNmdoYllUQmZrSVBteGVnQ3ZwSTc0Z3NPMkJWTDN3REJLMDZHY21JUHNrbFFxM2s5a2hkWFdCSkNSNm5DOTBqTGNOTUg3MVUzWU4wQWFVV2F3M0o3N1lVUFBidlBWajZxc1cwWHZhUDlSdDFoQXRxR2FPTzhKNEpsUTRjVWlqb0phbDRlYVBmcjRQMmE5LW96ZlByRlFIRzhQUVBva3pYTGdPNERiaE0wYjgtbmMwV0hIVm5MT3phcTRZamNTeUp4Yzk3cmJZbXpKck9hNXl5NXpxT29zd0Q0UFgtNFk?oc=5",
-      "excerpt": "Le Guide MICHELIN lance un grand jeu concours – Identifiez les restaurants qui seront distingués d&amp;r...&nbsp;&nbsp;Food & Sens",
-      "cat": "gastronomie",
-      "geo": "france",
-      "geo_label": "France",
-      "date": "01/04/2026",
-      "iso_date": "2026-04-01T02:45:40+00:00",
-      "alert": true
-    },
-    {
       "id": "dd1a5de0fc53945f92445bee02218eba",
       "title": "Fontenille, la collection qui réinvente l’hôtellerie française - Le Figaro",
       "source": "Google News",
@@ -587,16 +613,16 @@
       "alert": true
     },
     {
-      "id": "08fda25b22cffad463766e19429cbafa",
-      "title": "Wynn Las Vegas Unveils Major Expansion Plans for Signature Hotel Experiences in 2026 - AD HOC NEWS",
+      "id": "6c853c6fa56610e68666f4f96b4e8fa5",
+      "title": "The 20 Best Hotels In Italy—According To The 2026 DUCO Awards - Forbes",
       "source": "Google News",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSlJMTW9OWm9MOENGeVdSNV9xY0dzeUJFMjJreElpYnBoVW5EajBQUkhWZDR1eURzT1NILU1lZklPN2hrc25uZV81d3owanVwSjVfOFJoRTNVamdkY2xRdmVJenFmeHZSN2s2azBLNHpXdll5aVI1ZVd3MjA1Q1BRYlo5MU5kWERfaHZQeG1mUlZOS1V1SUloR3QwelJadDFVckhRSVNxazFteE83WXlYQ1RxTlhJekRFRGc?oc=5",
-      "excerpt": "Wynn Las Vegas Unveils Major Expansion Plans for Signature Hotel Experiences in 2026&nbsp;&nbsp;AD HOC NEWS",
-      "cat": "innovation",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUWRHV2RqeXc4UkJ1aTUwUjV5elR2T01KWFhkbmg0aXRtWERGNC1sQ1FTX1FOR3NKalB0WkJIYW1sdW01eDl2VU5xUHBKcGpfUDlQYkxwZzB6dk1CaVVQOTZySUZfLW9vQW5iNnZKWVFCOFdPa2lfb1pPMzZWNWhWYVd1cUJqRmRfVUdSOFBEdHczbFBXVUpZS1JmQmlJRk1YZEVTMzNrUXQ4MmhCUGlRRWpB?oc=5",
+      "excerpt": "The 20 Best Hotels In Italy—According To The 2026 DUCO Awards&nbsp;&nbsp;Forbes",
+      "cat": "tendance",
       "geo": "international",
       "geo_label": "International",
-      "date": "24/03/2026",
-      "iso_date": "2026-03-24T07:00:00+00:00",
+      "date": "27/03/2026",
+      "iso_date": "2026-03-27T07:00:00+00:00",
       "alert": false
     },
     {
@@ -704,12 +730,12 @@
       "alert": true
     },
     {
-      "id": "9c658cb4dc7b302ed3046e250645de31",
-      "title": "Guide Michelin 2026 : quels restaurants ont gagné une étoile ? Découvrez le palmarès complet - Ouest-France",
+      "id": "059c31cdd1e785b17c3ac4170cc91763",
+      "title": "Guide Michelin : avec deux tables récompensées, un petit cru 2026 en Bretagne - Ouest-France",
       "source": "Google News",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOVVhNNTd1dDgwOEtTeVZaUTNGWWNDcmhQZzB3NE84YWRPQ3JtNnI1WllYYlZyaVBOd0IxLU1saTF4eHFjWG5XeTVDdXdxaWdjb2p6d1k1VVVkQU9XX2w3NXFjQ0ljUTE4dkVrOUNhWDlVWGlaY3hIQnoxQmdMNVdKSlZ0OWphV2R3d1ZXeEdUUHI0YnJwRnVha2E2S29kQXpvd0FrWDU5OEtVMHpiYXRCLVV5emlnZks4YnhUMDFkS1ZpajhlZG1GN0I3emNuLWdhZTZWT0JSVUVPSnptSE83YVhfbi1mWGxXVWRvdXhNYkxoZzF6emhtaEZYWFZ1ZklNMjU4?oc=5",
-      "excerpt": "Guide Michelin 2026 : quels restaurants ont gagné une étoile ? Découvrez le palmarès complet&nbsp;&nbsp;Ouest-France",
-      "cat": "ouverture",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOWHBxRHE1aWdPckRIb1BGRWwxQXpSUU02eGo5WEFyVG9sY1Q5emt5UWJJV1BvdnQxRmNDTmVYTVJQZ1R5WDF5enI1RVJnOGJrMHRUNXVjTjM1cGFPRG83UDBsNXQwaHYtandSeWIyQWR3a1h6TjdIN3drNElaek5ac2w4Z2RyeTcwUktYMXlhRVd3OGZtWkRWTk5odnVJeWJPZXBrZ2ZSLUpWcS13ZkZjS3FKSGtyM1NnSWlFSjZUSGw4ckJTN0RIOUwwc1JWbVpsUFpDTFBzOGFqUHNLdUxQVE1zUzZjU2RkZVlQYmlxLVM?oc=5",
+      "excerpt": "Guide Michelin : avec deux tables récompensées, un petit cru 2026 en Bretagne&nbsp;&nbsp;Ouest-France",
+      "cat": "gastronomie",
       "geo": "france",
       "geo_label": "France",
       "date": "16/03/2026",
@@ -728,19 +754,6 @@
       "date": "16/03/2026",
       "iso_date": "2026-03-16T07:00:00+00:00",
       "alert": true
-    },
-    {
-      "id": "d356e9098bc080caa50bbaf822d98860",
-      "title": "How Luxury Hotels Are Making Wellness Sustainable - Forbes",
-      "source": "Google News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWTRnMnF1SVVFUXFTUWphVEY1QzJfZVQ0WDZaYUV2SG9la3Boai1lZkczSzJyc0c3MFF1SG1zbk9WbUh2TnhCdzZZS3N5NkhIMWdZbnFJbFphVEpScVVnQjcwUzhKWHhTZUlzWXpZYm5UaENkdnBYVjlPMFNlay1GLXYtY2RBMFoycDVCeDZHLWdqY1M3VWFQUW9ESDE1blhxN1E1WXdRRDJWQQ?oc=5",
-      "excerpt": "How Luxury Hotels Are Making Wellness Sustainable&nbsp;&nbsp;Forbes",
-      "cat": "tendance",
-      "geo": "international",
-      "geo_label": "International",
-      "date": "16/03/2026",
-      "iso_date": "2026-03-16T07:00:00+00:00",
-      "alert": false
     },
     {
       "id": "0206fa1385e4cff4981a290a4c220b4e",
@@ -925,19 +938,6 @@
       "alert": false
     },
     {
-      "id": "c1ef02c71087bef2b2bc02bd906e5ec8",
-      "title": "Les Hautes Roches : le fleuron de l’hôtellerie tourangelle racheté par la propriétaire du château Louise de la Vallière - lanouvellerepublique.fr",
-      "source": "Google News",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPT1VSQW00bWVpTXNDYjhhY3ZfVVVyM0syWjBvODVfa1JTd29oMnN0ZFVja1IyQjA0YWpiOW9pdVZENGprZ0dvZXlCU19vd25YVHlJcnVDUE5QQUxMOXMtZDJaYldvYkY1OXlKQ1hlaGZSU0ljTGM0QkdGekU3SHlwQ2VRcks4Y29JR2VINlNOclJnR0loWXRYQUdZV0xBZjFQUVpKbXY1U0p3WllJUTJEUmF3ZkVRNmZNeVkycUVpRG5nU0ZiZFZTdjEtOFg1akhtUGV4M3M2dlJ2SHJWRmxXWTZFdFRzQmFEMDR3d19fbzhrUVpYN2I0WEw0enF6QTRRVkVBRlZNWk9RdnFKeE5yQmlzUHFhOXhjWkNOQ0ktY1dxYlU?oc=5",
-      "excerpt": "Les Hautes Roches : le fleuron de l’hôtellerie tourangelle racheté par la propriétaire du château Louise de la Vallière&nbsp;&nbsp;lanouvellerepublique.fr",
-      "cat": "tendance",
-      "geo": "europe",
-      "geo_label": "Val de Loire",
-      "date": "29/01/2026",
-      "iso_date": "2026-01-29T08:00:00+00:00",
-      "alert": false
-    },
-    {
       "id": "1ba01dad03b52ff9df21ca4883d73366",
       "title": "BRIOLLAY : Le Chāteau de Noirieux **** , le luxe à la campagne - Presse Agence",
       "source": "Google News",
@@ -962,6 +962,19 @@
       "date": "22/01/2026",
       "iso_date": "2026-01-22T08:00:00+00:00",
       "alert": false
+    },
+    {
+      "id": "79123952e032b7a4fa25bbe4a35f3924",
+      "title": "Monaco accueillera pour la première fois la Cérémonie du Guide MICHELIN France & Monaco, rendez-vou... - Food & Sens",
+      "source": "Google News",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRDRDdXJEMWMzTndxaHNDc3FxbVdQMk92MHlfNHR6STZyUnlWUTZORC1obDNaUEhfTkJfRk8yNjVqMlNpNzlnc09FN0ZlbEhNY0NNY3E1b0xaMDNSTDNzR3hiVDRuLWRUbHpSdzVNZzNnWmtmT0gya3g3Ylp5N2puaVEtYnQtN1I0RXNGbURPVmNTbFNQay0yZFVBMm55amt5S2trMnFNSGZTd29sXzNfM1labC1ZekF3cGZlOTJXa3l4VUhRT09UTDFOc1RXZ24zZHRTOW9IRk5OSnlPVVVLNUdWSdIB4wFBVV95cUxPRDRDdXJEMWMzTndxaHNDc3FxbVdQMk92MHlfNHR6STZyUnlWUTZORC1obDNaUEhfTkJfRk8yNjVqMlNpNzlnc09FN0ZlbEhNY0NNY3E1b0xaMDNSTDNzR3hiVDRuLWRUbHpSdzVNZzNnWmtmT0gya3g3Ylp5N2puaVEtYnQtN1I0RXNGbURPVmNTbFNQay0yZFVBMm55amt5S2trMnFNSGZTd29sXzNfM1labC1ZekF3cGZlOTJXa3l4VUhRT09UTDFOc1RXZ24zZHRTOW9IRk5OSnlPVVVLNUdWSQ?oc=5",
+      "excerpt": "Monaco accueillera pour la première fois la Cérémonie du Guide MICHELIN France & Monaco, rendez-vou...&nbsp;&nbsp;Food & Sens",
+      "cat": "gastronomie",
+      "geo": "france",
+      "geo_label": "France",
+      "date": "20/01/2026",
+      "iso_date": "2026-01-20T15:05:02+00:00",
+      "alert": true
     },
     {
       "id": "3b47ca06ee0f2a2c41b3e9e5158a34c6",
@@ -990,19 +1003,6 @@
       "alert": false
     },
     {
-      "id": "d5d2f0574a08712ef181d3ff87bda480",
-      "title": "6 Luxury Travel Trends for 2026 - Luxury Travel Advisor",
-      "source": "Google News",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMmJ3N1lRcVNQdFVsNnpVME1uMzgyQUxaZVJUUUVCZ19ZTXdycnJZUmpJRzZ5b1djRHo3OHVFTXNjZENTTmtJWDB2VjU2bUNKLUJDakhwWS14dlZWMl9WU2pBdDVkTmljZnJncEczeVdXdG5SVmg1RWwwU2FrVlVIdA?oc=5",
-      "excerpt": "6 Luxury Travel Trends for 2026&nbsp;&nbsp;Luxury Travel Advisor",
-      "cat": "tendance",
-      "geo": "international",
-      "geo_label": "International",
-      "date": "16/01/2026",
-      "iso_date": "2026-01-16T08:00:00+00:00",
-      "alert": false
-    },
-    {
       "id": "dfa815d433bcfad0172499e19c23e91d",
       "title": "Nouvelle carte d’hiver – L’Attilio Paris fait entrer l’Italie en saison - cequepensentleshommes.fr",
       "source": "Google News",
@@ -1013,19 +1013,6 @@
       "geo_label": "France",
       "date": "14/01/2026",
       "iso_date": "2026-01-14T08:00:00+00:00",
-      "alert": false
-    },
-    {
-      "id": "755406d7e9a5d66b2fe4759df79a8362",
-      "title": "Château de la Messardière : 5 choses à savoir sur le plus bel hôtel de Saint-Tropez - AD Magazine",
-      "source": "Google News",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03aXNjVXk3TGN2anVzRk02X0FPVXFlMkk3QkRESFBTaDNndEhxdXpqeTRxaHRJV3QxZXA0NVAxQUFQS0VJSmU0N0ZFV3BhSFhDRTBfX2tPRmJrRzdoWEFuQ0pfaWVtVkItRmllcThuSEtNaHlndkgtYjJtbzk?oc=5",
-      "excerpt": "Château de la Messardière : 5 choses à savoir sur le plus bel hôtel de Saint-Tropez&nbsp;&nbsp;AD Magazine",
-      "cat": "tendance",
-      "geo": "france",
-      "geo_label": "France",
-      "date": "12/01/2026",
-      "iso_date": "2026-01-12T08:00:00+00:00",
       "alert": false
     },
     {
@@ -1068,6 +1055,32 @@
       "alert": true
     },
     {
+      "id": "43056127444abdeeb79d2ed7af5d57bf",
+      "title": "Week-end proche de Paris, week-end autour de Paris, les meilleurs hôtels et maisons d'hôtes 2026 - yonder.fr",
+      "source": "Google News",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTG85Y3E4b0xwajlfa1FxeXpmSlBVMUdwYTJpR1BtLXc5NnUyZFE1N0lRMENBSGlYS0hycXZJWWVlSVBvU1ZRRE5IYzdMcWFTYmdLeW9ueUIyRG5oYU9lc2xZWlpjX255VFhpUGgzOHlVWUR6Mld2N19SaldXU29tRkZtV1RtcjdSbmtqNE0xbw?oc=5",
+      "excerpt": "Week-end proche de Paris, week-end autour de Paris, les meilleurs hôtels et maisons d'hôtes 2026&nbsp;&nbsp;yonder.fr",
+      "cat": "tendance",
+      "geo": "europe",
+      "geo_label": "Val de Loire",
+      "date": "08/01/2026",
+      "iso_date": "2026-01-08T08:00:00+00:00",
+      "alert": false
+    },
+    {
+      "id": "51c4e304b5e343d5332d41e534a150dc",
+      "title": "✅Best Seattle Hotels 2026: Top 5 Star Luxury Stays in the Em - ArcGIS StoryMaps",
+      "source": "Google News",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1yb0VoVW82bDZwY0RBdnV1dWNJLWU1X3FaV0hJYUZvVHVldmhRLWJkYnZyLTVOamYydFkzZEM3bkxOVDVxd2ZvcmpyMUdMbmlidUlpMmZfcUY1blA3NmFhc2lkNi14aW11QWZJQVJoMnpUUkVXWE9ocQ?oc=5",
+      "excerpt": "✅Best Seattle Hotels 2026: Top 5 Star Luxury Stays in the Em&nbsp;&nbsp;ArcGIS StoryMaps",
+      "cat": "tendance",
+      "geo": "international",
+      "geo_label": "International",
+      "date": "08/01/2026",
+      "iso_date": "2026-01-08T08:00:00+00:00",
+      "alert": false
+    },
+    {
       "id": "a40cbd7486934dee2fccaf5bb2af737a",
       "title": "Les meilleurs hôtels pour séminaires à moins de deux heures de Paris - yonder.fr",
       "source": "Google News",
@@ -1104,19 +1117,6 @@
       "geo_label": "International",
       "date": "04/01/2026",
       "iso_date": "2026-01-04T08:00:00+00:00",
-      "alert": false
-    },
-    {
-      "id": "6b941f0042241d758b8c82703b4db4cf",
-      "title": "Tourisme 2026 : expériences sur mesure et destinations durables - Bpifrance",
-      "source": "Google News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSWMwMFBtZjJoRDl0RTFfdUFQRW91SDZzVk9PMGluNm11V3B4U185Q3dDMVpkNllDNE9rWnpPX1NYREo3RjY4c1BMUWRyUmdfX2pXUExod291OHB5aXRqNy15Z3RVODNRbkg5dEpENlNWQkRrc2M1R09fNEowc1czZFRXc1B5OHVmeFVrOVlYeWR2QUt1S1FYTDVpMmx5MEQ0aVVnbWtRNVVDQQ?oc=5",
-      "excerpt": "Tourisme 2026 : expériences sur mesure et destinations durables&nbsp;&nbsp;Bpifrance",
-      "cat": "tendance",
-      "geo": "france",
-      "geo_label": "France",
-      "date": "02/01/2026",
-      "iso_date": "2026-01-02T08:00:00+00:00",
       "alert": false
     },
     {
@@ -1263,19 +1263,6 @@
       "alert": true
     },
     {
-      "id": "1fc813a91755c60cdd80d917d14df561",
-      "title": "Teddy Leboucher - Directeur d’Okko Hôtels Nantes Château - Président du club hôtelier Nantes métropole - Ouest-France",
-      "source": "Google News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZmduOGF0R2hrMVBDQWNydFZGYlU2bWQ3a214c2pKZmYtTlBFQTl1SEw0RnZ3ZEYwNzJUaTNTVUpXWUluYnJaNmFldUFCUUJmMU5kZ1pMNmpQSXpWVnlLLUtOdWI4eHEzTFRqcS1mUURHUXdaaWdjZUhkUnd6T3lVanN3UEJOM2l2b3MxbklOTlpiTVItUUpkMGk3elZ0NWlYZTVn?oc=5",
-      "excerpt": "Teddy Leboucher - Directeur d’Okko Hôtels Nantes Château - Président du club hôtelier Nantes métropole&nbsp;&nbsp;Ouest-France",
-      "cat": "tendance",
-      "geo": "france",
-      "geo_label": "Loire-Atlantique",
-      "date": "27/11/2025",
-      "iso_date": "2025-11-27T08:00:00+00:00",
-      "alert": true
-    },
-    {
       "id": "1d11987505da5ec4258f1539b27dea36",
       "title": "Mont-Blanc Collection s’empare de l’hôtel Les Airelles à Morzine - Business Immo",
       "source": "Google News",
@@ -1406,6 +1393,19 @@
       "alert": true
     },
     {
+      "id": "741e244707db20a40b72e2b29ebcb0eb",
+      "title": "Billetterie Vendée Arctique 2026 - Réservez votre place à bord d'un bateau à passagers ! - Vendée Tourisme",
+      "source": "Google News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaVBNMnBjdWI0YjhHdWFpUUhMcjNNcXA1OWczd1ZibngwSFFnZHZBUkp6YWRJTWZqYll2SmtGcDJ4Sll2cWktN2l0a1FEbzdfNjFaTG5waHE4bmZTR0J0QXpFTExVMEpUN2p1TXBnQ3dFeFZ2Q3VFZWFkOG9aNDFfSWNSUnJFT2h2QnctSnhBUnhEdG1Uc29BZ2tkTkFELUNuVTdKNThvNEpja0dVSE1XVQ?oc=5",
+      "excerpt": "Billetterie Vendée Arctique 2026 - Réservez votre place à bord d'un bateau à passagers !&nbsp;&nbsp;Vendée Tourisme",
+      "cat": "tendance",
+      "geo": "france",
+      "geo_label": "Vendée",
+      "date": "28/10/2025",
+      "iso_date": "2025-10-28T07:00:00+00:00",
+      "alert": false
+    },
+    {
       "id": "c74ea0be9dca93ac0c1eaa6412d5003c",
       "title": "Le luxe du XXIᵉ siècle ? Des escapades dans la nature brute où seuls les voyageurs avertis osent s'aventurer - ulysse.com",
       "source": "Google News",
@@ -1430,6 +1430,19 @@
       "date": "27/10/2025",
       "iso_date": "2025-10-27T07:00:00+00:00",
       "alert": false
+    },
+    {
+      "id": "e2de517cca6ab5de1af9b18e2f694ae9",
+      "title": "Une nouvelle adresse où l’histoire et le luxe se rencontrent en plein centre-ville de Nantes - Ouest-France",
+      "source": "Google News",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNb2xRbXZFSTFmNWNzV1RrRXN6M1k4WXFwejVqSDJYTXBBNHpwVTNfcFN4SGk5NWpVenZPa0g0Q0xkSkhXUFl5THhMZHRlX0NZWU4zOHEzdTV6Q3dSVUlvYU44ZS1SYkwzSGJxTTFtWHI3WTNzeGN2SG5sdFprSHItV1NDc2dkeGVyMlpzRjJ2RzN1bXlkWVdKUmpxLUFsV3RfLUp3ZlpvV041UnNreTJGTk5hRGppNnFpaGhwUElmOTA3Y2o2ZlNQMFJTaFNWc3RUNlE4dXJRaFRudFlYdzhDUFFvSWxjTmdmUzFWQzRsQ3hrY1JtNW4xZ0g3V1RPNEhqNzdybW9BRnBOTnZOcFZ3WkJEbjM?oc=5",
+      "excerpt": "Une nouvelle adresse où l’histoire et le luxe se rencontrent en plein centre-ville de Nantes&nbsp;&nbsp;Ouest-France",
+      "cat": "tendance",
+      "geo": "france",
+      "geo_label": "Loire-Atlantique",
+      "date": "21/10/2025",
+      "iso_date": "2025-10-21T07:00:00+00:00",
+      "alert": true
     },
     {
       "id": "0ed8bb825abc4680e451cb01f210e1a4",
@@ -1497,19 +1510,6 @@
       "alert": true
     },
     {
-      "id": "057bddb9804be654013665a048d5548d",
-      "title": "Le village de la Vendée Arctique - Infos pratiques - Vendée Tourisme",
-      "source": "Google News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU0VrcFV3WXRrZ0s0eW1MamdlSmxHZjI1cmw3S3ZiQ1dKM2c2UHdyS09uNG1Dd21mcWVoR2V6NGNkelpiODViSmlFQlZNMXhkTnk1UUhTdDBTQ195ZDBQMWhvWEVRY2NTUEJwSUZDa2tfT2c4eG5vUENzejJOOWF5aDJZeF95MGZRazhOV3NnUW1DaUpnS1BLNEk0dmR4VVU?oc=5",
-      "excerpt": "Le village de la Vendée Arctique - Infos pratiques&nbsp;&nbsp;Vendée Tourisme",
-      "cat": "tendance",
-      "geo": "france",
-      "geo_label": "Vendée",
-      "date": "26/09/2025",
-      "iso_date": "2025-09-26T11:36:45+00:00",
-      "alert": false
-    },
-    {
       "id": "da291a91750e63d34e0b337078d07800",
       "title": "« C'est devenu un luxe d'y aller » : le bilan de la saison estivale des restaurateurs en Vendée - Actu.fr",
       "source": "Google News",
@@ -1549,16 +1549,16 @@
       "alert": false
     },
     {
-      "id": "8b64efe1e18340dc26829b8a1e12ea35",
-      "title": "Manque d'hygiène, fermeture de la discothèque… Un camping de La Tranche-sur-Mer vit une saison difficile - Capital.fr",
+      "id": "af279ccb34e9a4549b4d162017ec2ea1",
+      "title": "PARIS : L’empreinte sucrée de Kenta Tsukiji à L’Attilio Paris - Presse Agence",
       "source": "Google News",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbjhOWTZJV2VtRVQ5c0hkeFo2U0VQOEVueFdRd1Z2X2djWjZVU3JfNHdfZGplNnl3VXdOMFR6NTNmUFZGZXRON3Z5dXlWNUhjSVMwVjd3UFRtVDlvQTVaRXNTVTRVckRtWGEtX2Z2bTZ6WUZMU1NwOXRwVlVvNk9TQ3ExTGFpQ193NmZDZWkzYmk3TlNNMTNlbWdXTDF6RHBkMmJ2dFNsSWJESEhyLVVfMk02dXpDcUxyaUd0VDB5cWZSVUZMdjlhRl95LXVVd0FWa05tNXN3TnRzQVdOaUNHNWNIWlZCUG8?oc=5",
-      "excerpt": "Manque d'hygiène, fermeture de la discothèque… Un camping de La Tranche-sur-Mer vit une saison difficile&nbsp;&nbsp;Capital.fr",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTldrSG5UQWhTRHVqLW9KQTU4WmRZOXRtZGgtNkk3RWV3eHYxeXQzTHZxQkM3Z0duX0l4U1hOd09xbmxGODdGbkRSYnpxT09xejNJSDJETmJYYW1NRHlUaEcxdFAyTjZ0Vjg1eWo5Vm11MWpkSmV4SmNVOVJmWnRzYW9ySkVTTHpNMnc?oc=5",
+      "excerpt": "PARIS : L’empreinte sucrée de Kenta Tsukiji à L’Attilio Paris&nbsp;&nbsp;Presse Agence",
       "cat": "tendance",
       "geo": "france",
-      "geo_label": "Vendée",
-      "date": "19/08/2025",
-      "iso_date": "2025-08-19T07:00:00+00:00",
+      "geo_label": "France",
+      "date": "26/08/2025",
+      "iso_date": "2025-08-26T07:00:00+00:00",
       "alert": false
     }
   ]

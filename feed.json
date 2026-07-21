@@ -1,17 +1,134 @@
 {
-  "updated": "2026-07-20T08:36:45.754666+00:00",
+  "updated": "2026-07-21T08:05:35.673477+00:00",
   "items": [
     {
-      "id": "521a08bd5a262d4ede238ec95812cc10",
-      "title": "Mandarin Oriental Hotel Group Appoints General Managers for Upcoming Cortina and Rome Hotels - Hotelier Buzz",
+      "id": "b816d28c43f6c4fc65d4fdc42fdf8d27",
+      "title": "The U.S. Passport Is Stuck, The UAE’s Is Gaining Fast",
+      "source": "Skift",
+      "link": "https://skift.com/2026/07/21/the-u-s-passport-is-stuck-the-uaes-is-gaining-fast/",
+      "excerpt": "Passport rankings are a lagging indicator of something travel companies should watch in real time: how easily — and where — a country&apos;s citizens can move.",
+      "cat": "tendance",
+      "geo": "international",
+      "geo_label": "International",
+      "date": "À l'instant",
+      "iso_date": "2026-07-21T08:00:00+00:00",
+      "alert": false
+    },
+    {
+      "id": "1e8272ee3911263baf1066deffd056d4",
+      "title": "Riyadh Air Waited Years for New Planes. Now Six Have Arrived in 30 Days",
+      "source": "Skift",
+      "link": "https://skift.com/2026/07/20/riyadh-air-waited-years-for-new-planes-now-six-have-arrived-in-30-days/",
+      "excerpt": "For a startup with no legacy fleet to fall back on, delivery delays were painful. But taking such a large number of aircraft in just a month brings its own headaches.",
+      "cat": "tendance",
+      "geo": "international",
+      "geo_label": "International",
+      "date": "Il y a 8h",
+      "iso_date": "2026-07-20T23:07:37+00:00",
+      "alert": false
+    },
+    {
+      "id": "59eb92fe010347e3fa4853699ec8d1d4",
+      "title": "Expedia’s AI Timeline Runs Through Its Talent Strategy",
+      "source": "Skift",
+      "link": "https://skift.com/2026/07/20/expedia-cto-ramana-thumu-ai-talent-strategy/",
+      "excerpt": "Expedia is betting its product roadmap on replicating the outsized AI productivity of its elite engineers. According to its CTO, the strategy hinges on a race to hire and retain that talent — making the company&apos;s product timeline as much of a recruiting challenge as a techno",
+      "cat": "innovation",
+      "geo": "international",
+      "geo_label": "International",
+      "date": "Il y a 12h",
+      "iso_date": "2026-07-20T19:44:23+00:00",
+      "alert": false
+    },
+    {
+      "id": "c2a114159cab1665956297daf4ba20a7",
+      "title": "Mandarin Oriental expands in Italy: New GMs named for Rome and Cortina hotels - Travel Weekly",
       "source": "Google News",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS0lCT3FGbHZNa0w5ZDJ5akF3TjZVMUFNU3JaOUo3dkVvZF9YRTN1aDBlZWItanRWU0RYRFFVXzRNSVZ2VXVzRS1LMVZZQjh6N1BrVTg5c2ZyelR1MHhCUzhKWUxDSzZhUUtRemt3REYzWjFlU2FnTzFycmhKalRTS0xUaVhXZFZIZTlfWDlUVFZXRGU0WGZsV2FpNG4ycjk1RGJINFduV0RrVGZKSEE4R1lBNlE5UUhGbnc?oc=5",
-      "excerpt": "Mandarin Oriental Hotel Group Appoints General Managers for Upcoming Cortina and Rome Hotels&nbsp;&nbsp;Hotelier Buzz",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZW05NHNMZHpDNFRNbGp5VUhWbzlaTTZ1VzFxSndPOHNlMHlUczY2U0xkN2tjZWgtVlNaV3pVd0NaM0hRTk5KSHNuTFdscjZFVmdQamNqaXBsc1JHNE1PNUpzemVaSkF0LU1LcTdGNURTTlBzcEtHZ0xhU0VIWE80VDR6ZC1UTkRnUEZxN2dENUhrd29HRWF0a1FhQlZrWGFjdnF6aFFpYzBRb1otWnJ0Zm8zZlUtek10RjlQdVB3?oc=5",
+      "excerpt": "Mandarin Oriental expands in Italy: New GMs named for Rome and Cortina hotels&nbsp;&nbsp;Travel Weekly",
       "cat": "concurrence",
       "geo": "international",
       "geo_label": "International",
-      "date": "Il y a 3h",
-      "iso_date": "2026-07-20T05:06:23+00:00",
+      "date": "Il y a 15h",
+      "iso_date": "2026-07-20T16:59:47+00:00",
+      "alert": false
+    },
+    {
+      "id": "1b54857ff895b8509be41e4e19d39667",
+      "title": "JetBlue Wins Spirit’s LaGuardia Slots for $58.5 Million — Below Spirit’s Own Estimate",
+      "source": "Skift",
+      "link": "https://skift.com/2026/07/20/jetblue-wins-spirits-coveted-slots-at-laguarda-for-58-5-million/",
+      "excerpt": "JetBlue’s winning bid comes in well below Spirit&apos;s $86.7 million valuation of its LaGuardia slots.",
+      "cat": "innovation",
+      "geo": "international",
+      "geo_label": "International",
+      "date": "Il y a 15h",
+      "iso_date": "2026-07-20T16:33:24+00:00",
+      "alert": false
+    },
+    {
+      "id": "425d4fd0ccbb2ba36c55d4adca27f7ae",
+      "title": "Hotel Brands Circle Student Housing: 4 Income Streams",
+      "source": "Skift",
+      "link": "https://skift.com/2026/07/20/hotel-brands-circle-student-housing-4-income-streams/",
+      "excerpt": "The appeal is in diversifying across multiple income streams: students, extended-stay, traditional brief hotel stays, and coworking.",
+      "cat": "tendance",
+      "geo": "international",
+      "geo_label": "International",
+      "date": "Il y a 18h",
+      "iso_date": "2026-07-20T13:57:06+00:00",
+      "alert": false
+    },
+    {
+      "id": "1bb823e0176a6f3383dd7756dba90337",
+      "title": "Travel Marketing’s Next KPI Is Economic Impact, Not Impressions",
+      "source": "Skift",
+      "link": "https://skift.com/2026/07/20/ai-economic-impact-travel-marketing/",
+      "excerpt": "Travel marketers have become experts at measuring campaign activity. The challenge now is connecting that activity to visitation, traveler value, and economic impact while campaigns are still running. AI-powered measurement can optimize campaigns for business outcomes, not just m",
+      "cat": "tendance",
+      "geo": "international",
+      "geo_label": "International",
+      "date": "Il y a 19h",
+      "iso_date": "2026-07-20T13:00:00+00:00",
+      "alert": false
+    },
+    {
+      "id": "28c845e3c004a3b776f3c9b0a56e6d11",
+      "title": "How Thailand Is Trying to Win Back Chinese Tourists",
+      "source": "Skift",
+      "link": "https://skift.com/2026/07/20/how-thailand-is-trying-to-win-back-chinese-tourists/",
+      "excerpt": "Thailand is shifting from reassurance to access, betting that easier travel and deeper ties with China&apos;s interior will restore Chinese arrivals before rivals like Malaysia turn their gains into lasting market share.",
+      "cat": "innovation",
+      "geo": "international",
+      "geo_label": "International",
+      "date": "Il y a 19h",
+      "iso_date": "2026-07-20T12:18:25+00:00",
+      "alert": false
+    },
+    {
+      "id": "2ef524cef86900175bff93a7a67e8b7f",
+      "title": "Fontenille Collection : Au cœur du parc régional naturel du Luberon - L'Hôtellerie Restauration",
+      "source": "Google News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZEtUQThSWEtTbUdHT2dGZEhkY1J4MF9DbEhIWU9HOWJ0QlpVS2UyYkJiN2R2UWtzdHpJSHJtQTZmck9nYUxaUDhfdk9BMk1neTlRVTdVb3g1ZGxRZkEzM0R6NjF0c2F5b3lYMGtTZWVZT2xrUy1lb0lXaEpIVEZxX2dXbGR3bFJ4ZjNXS214cGxXVUhFa0s5MHI1SHZqNUhPcm16eGJn?oc=5",
+      "excerpt": "Fontenille Collection : Au cœur du parc régional naturel du Luberon&nbsp;&nbsp;L'Hôtellerie Restauration",
+      "cat": "concurrence",
+      "geo": "france",
+      "geo_label": "France",
+      "date": "Il y a 22h",
+      "iso_date": "2026-07-20T09:30:04+00:00",
+      "alert": true
+    },
+    {
+      "id": "39f0bd98c631b315ad4def1cbc56cb45",
+      "title": "Inspirations Voyages - Les Relais du Monde : vendre l'hyper-luxe et l'insolite en agence - tourmag.com",
+      "source": "Google News",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUjh2aEhEenVDbEZyaVRpS2pmMGZONzdWRDlKdjZGVVJpWWFfZENuNlU2VVpUa0ktQjhvRXdMcWlWSjdGM00xMjlXMURNR0tHLThNaVNjUU1NRTBBN2tGZDU5X0dVcU9DUzVkRFVYR21UVUJYMmNPMzhudDhfNnAwRDM0RGFTeTlvaUg3S0tiWGtuc1JHalFXN3pWMVZsY1IwR0hkRDZ5bi1PQVZvckRlcGpFSlBQTUwxSVl1S2ZB?oc=5",
+      "excerpt": "Inspirations Voyages - Les Relais du Monde : vendre l'hyper-luxe et l'insolite en agence&nbsp;&nbsp;tourmag.com",
+      "cat": "tendance",
+      "geo": "france",
+      "geo_label": "France",
+      "date": "Il y a 1 j",
+      "iso_date": "2026-07-20T04:34:00+00:00",
       "alert": false
     },
     {
@@ -23,7 +140,7 @@
       "cat": "tendance",
       "geo": "france",
       "geo_label": "Loire-Atlantique",
-      "date": "Il y a 9h",
+      "date": "Il y a 1 j",
       "iso_date": "2026-07-19T23:00:00+00:00",
       "alert": true
     },
@@ -36,7 +153,7 @@
       "cat": "tendance",
       "geo": "france",
       "geo_label": "France",
-      "date": "Il y a 1 j",
+      "date": "Il y a 2 j",
       "iso_date": "2026-07-18T16:12:31+00:00",
       "alert": false
     },
@@ -49,86 +166,8 @@
       "cat": "tendance",
       "geo": "international",
       "geo_label": "International",
-      "date": "Il y a 1 j",
+      "date": "Il y a 2 j",
       "iso_date": "2026-07-18T12:16:48+00:00",
-      "alert": false
-    },
-    {
-      "id": "cab287cca176b3692d90b5ff173d8f57",
-      "title": "Airbnb Partners With CarTrawler for Car Rentals in 5 Countries: Scoop",
-      "source": "Skift",
-      "link": "https://skift.com/2026/07/17/airbnb-partners-with-cartrawler-for-car-rentals-in-5-countries-scoop/",
-      "excerpt": "Airbnb&apos;s partnership with CarTrawler on car rentals is Airbnb&apos;s latest step toward becoming a traditional online travel agency. CarTrawler is poised to become an Expedia brand, which will compete with Airbnb on car rentals.",
-      "cat": "innovation",
-      "geo": "international",
-      "geo_label": "International",
-      "date": "Il y a 2 j",
-      "iso_date": "2026-07-17T22:13:34+00:00",
-      "alert": false
-    },
-    {
-      "id": "96e883e937d7c3c18c203c765e23d0b7",
-      "title": "The Travel Industry Was Banking on a World Cup Windfall. Here’s What the Numbers Show.",
-      "source": "Skift",
-      "link": "https://skift.com/2026/07/17/world-cup-impact-on-travel-industry/",
-      "excerpt": "The World Cup delivered real, rate-driven gains for hotels and short-term rentals. But the impact was barely noticed by U.S. airlines, and the international visitor boom is falling short of expectations.",
-      "cat": "tendance",
-      "geo": "international",
-      "geo_label": "International",
-      "date": "Il y a 2 j",
-      "iso_date": "2026-07-17T19:01:45+00:00",
-      "alert": false
-    },
-    {
-      "id": "3e725a3831086449f94e85f02b34b57c",
-      "title": "Europe May Finally Charge International Flights for Emissions — U.S. and China Get a Pass",
-      "source": "Skift",
-      "link": "https://skift.com/2026/07/17/europe-eu-ets-international-flights/",
-      "excerpt": "Associations are unhappy with Europe’s plans to make the aviation industry pay more for its international emissions — for different reasons. One side argues proposals don’t go far enough, and the other says they shouldn’t exist at all.",
-      "cat": "innovation",
-      "geo": "international",
-      "geo_label": "International",
-      "date": "Il y a 2 j",
-      "iso_date": "2026-07-17T18:56:43+00:00",
-      "alert": false
-    },
-    {
-      "id": "c02bd4fd6cec832cbd73b0df96bd5754",
-      "title": "The World Cup Travel Matrix",
-      "source": "Skift",
-      "link": "https://skift.com/2026/07/17/the-world-cup-travel-matrix/",
-      "excerpt": "Who lifted the trophy for the travel industry&apos;s World Cup? Behold Skift&apos;s winners, losers, floppers, and the freeloaders.",
-      "cat": "tendance",
-      "geo": "international",
-      "geo_label": "International",
-      "date": "Il y a 2 j",
-      "iso_date": "2026-07-17T17:49:30+00:00",
-      "alert": false
-    },
-    {
-      "id": "a06f0c52da3e161b37454780502446b4",
-      "title": "Allegiant, Long an OTA Holdout, Signs an Exclusive Deal With Expedia",
-      "source": "Skift",
-      "link": "https://skift.com/2026/07/17/allegiant-long-an-ota-holdout-signs-an-exclusive-deal-with-expedia/",
-      "excerpt": "A shrinking number of airlines shun online travel agency distribution. Allegiant&apos;s deal with Expedia Group means it abandoned its direct-distribution-only strategy — one that it touted as advantageous as late as February 2026.",
-      "cat": "innovation",
-      "geo": "international",
-      "geo_label": "International",
-      "date": "Il y a 2 j",
-      "iso_date": "2026-07-17T14:55:13+00:00",
-      "alert": false
-    },
-    {
-      "id": "dc18cd871e7b3fcc77ce15e51cf261eb",
-      "title": "Delta Adds LAX-Manila Route as the Battle for West Coast and Asia Heats Up",
-      "source": "Skift",
-      "link": "https://skift.com/2026/07/17/delta-adds-lax-manila-route/",
-      "excerpt": "Delta is focusing international growth out of the West Coast, looking to become the dominant carrier out of LAX.",
-      "cat": "innovation",
-      "geo": "international",
-      "geo_label": "International",
-      "date": "Il y a 2 j",
-      "iso_date": "2026-07-17T13:00:00+00:00",
       "alert": false
     },
     {
@@ -140,21 +179,8 @@
       "cat": "innovation",
       "geo": "france",
       "geo_label": "France",
-      "date": "Il y a 2 j",
-      "iso_date": "2026-07-17T12:37:00+00:00",
-      "alert": false
-    },
-    {
-      "id": "007aabf0e38c79a92343b7bfd1c15094",
-      "title": "Hilton’s Chris Nassetta: Why 28 Brands Aren’t Too Many and the ‘Bazillion Points’ Problem",
-      "source": "Skift",
-      "link": "https://skift.com/2026/07/16/hiltons-chris-nassetta-why-28-brands-isnt-too-many-and-the-bazillion-points-problem/",
-      "excerpt": "Hilton CEO Chris Nassetta defended the company&apos;s need for 28 brands as a data-driven strategy rather than sprawl, while also pointing to AI as the next lever for fixing guest problems in the moment.",
-      "cat": "tendance",
-      "geo": "international",
-      "geo_label": "International",
       "date": "Il y a 3 j",
-      "iso_date": "2026-07-16T19:26:48+00:00",
+      "iso_date": "2026-07-17T12:37:00+00:00",
       "alert": false
     },
     {
@@ -166,7 +192,7 @@
       "cat": "gastronomie",
       "geo": "france",
       "geo_label": "France",
-      "date": "Il y a 3 j",
+      "date": "Il y a 4 j",
       "iso_date": "2026-07-16T16:36:00+00:00",
       "alert": false
     },
@@ -179,7 +205,7 @@
       "cat": "gastronomie",
       "geo": "france",
       "geo_label": "France",
-      "date": "Il y a 3 j",
+      "date": "Il y a 4 j",
       "iso_date": "2026-07-16T12:30:00+00:00",
       "alert": false
     },
@@ -192,7 +218,7 @@
       "cat": "gastronomie",
       "geo": "france",
       "geo_label": "France",
-      "date": "Il y a 3 j",
+      "date": "Il y a 4 j",
       "iso_date": "2026-07-16T12:14:00+00:00",
       "alert": false
     },
@@ -205,21 +231,8 @@
       "cat": "concurrence",
       "geo": "international",
       "geo_label": "International",
-      "date": "Il y a 3 j",
+      "date": "Il y a 4 j",
       "iso_date": "2026-07-16T10:40:00+00:00",
-      "alert": false
-    },
-    {
-      "id": "0849592045c5a7a1db19a0be7e8d2af1",
-      "title": "International Luxury Hotel Association's INSPIRE 2026 Returns to Orlando This December - Hospitality Net",
-      "source": "Google News",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWUkxT0FpanozMHQ4TjVJMldKczh4a285aFprUHZMYjcwZ0UxM19nMUJkbEtFS0Zhb0h4LXdUZkYyNGhvM1ZmM2hlQm9rVHVJa3FGdzdGR0lCcDZFbWtlbDNzMktydTU2TjRKNGtrMUpFalU4N2dVNG1HbW84aFdOS0t6dHNKWU9CM0FSWGpLaWIweHAxQVcyakFIendvMEVISGM2QTctOVNQR0k1aWJfVEhDcExDcjZIVS0zSDhXTTVsRElzMko1Uw?oc=5",
-      "excerpt": "International Luxury Hotel Association's INSPIRE 2026 Returns to Orlando This December&nbsp;&nbsp;Hospitality Net",
-      "cat": "innovation",
-      "geo": "international",
-      "geo_label": "International",
-      "date": "Il y a 3 j",
-      "iso_date": "2026-07-16T09:45:16+00:00",
       "alert": false
     },
     {
@@ -231,7 +244,7 @@
       "cat": "tendance",
       "geo": "france",
       "geo_label": "France",
-      "date": "Il y a 4 j",
+      "date": "Il y a 5 j",
       "iso_date": "2026-07-16T07:00:00+00:00",
       "alert": false
     },
@@ -244,34 +257,21 @@
       "cat": "tendance",
       "geo": "international",
       "geo_label": "International",
-      "date": "Il y a 4 j",
+      "date": "Il y a 5 j",
       "iso_date": "2026-07-15T20:11:28+00:00",
       "alert": false
     },
     {
-      "id": "a2cd9c2a67d45a976ffb3436d30de453",
-      "title": "The International Luxury Hotel Association INSPIRE 2026 Arrives in Orlando in US Connecting Luxury Hotel Investors Developers and Hospitality Innovators to Redefine the Future of Global Hospitality - Travel And Tour World",
+      "id": "ee656f5578bc463388505ee4181da1f7",
+      "title": "Mandarin Oriental Boca Raton condo developer loses $2M judgment to buyer - The Business Journals",
       "source": "Google News",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wMDlycy04QjFfQlpKWlFLU0lwSkJBX0dnTDl4NTlVdm9UTUxHWnhpSHJZeW5qQm14OU1fQ1d2Rnk1MVZ0VkhQRTVrZ1lqSWpKYmktSUt6a29melhzU2FCT3A1MllMNFhzaGNPZU93?oc=5",
-      "excerpt": "The International Luxury Hotel Association INSPIRE 2026 Arrives in Orlando in US Connecting Luxury Hotel Investors Developers and Hospitality Innovators to Redefine the Future of Global Hospitality&nbsp;&nbsp;Travel And Tour World",
-      "cat": "innovation",
-      "geo": "international",
-      "geo_label": "International",
-      "date": "Il y a 4 j",
-      "iso_date": "2026-07-15T19:11:27+00:00",
-      "alert": false
-    },
-    {
-      "id": "c77947e8de99af517ad613cb886b94c1",
-      "title": "MANDARIN ORIENTAL, MARRAKECH RANKS AMONG THE WORLD’S TOP 1,000 HOTELS - Breaking Travel News",
-      "source": "Google News",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVXBxUkFJYkJHZXJNWEl4RmRMU2ZjVFNWRTllYVZYS1Vzb1V1a1BFUW9kMkg0YzlDRU8tWDNpTDJSSDlIRXN0OF9BSGFsMlUzYnZ6UWlPTjFTZDZ4cWQzUWd3WGZSejVab1ZfNWJfT1JSckk4U0tNMXA2a1pMd1pFM010cVZjbDVFSEtIOWthTUJLRzZCQ1FXMHl4SWZjRkgzaWx3dTVQSzl6MUU3anJ0Q3NYcDRQZw?oc=5",
-      "excerpt": "MANDARIN ORIENTAL, MARRAKECH RANKS AMONG THE WORLD’S TOP 1,000 HOTELS&nbsp;&nbsp;Breaking Travel News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZlBYcFVWcnJiVmxxTGwzeEp0VHBEYWVkZGhKU2daYTRJanRNekhhVWdQVmFTbnNKNnRuTE9uTEZteTZ0VHhWSF9Ha1VfLXRYTEZKZml5TDFvdThWaGdObkdPZXNYcTVqQkRuYm85blRXZTYtR2hKNDF6eXdXcllqcU9RcFVnU0p3SWl4blVEU3lxWWE5OFdUZEJOQVlxTlcxdXM4ZEdUV0IxTkNlU1hv?oc=5",
+      "excerpt": "Mandarin Oriental Boca Raton condo developer loses $2M judgment to buyer&nbsp;&nbsp;The Business Journals",
       "cat": "concurrence",
       "geo": "international",
       "geo_label": "International",
-      "date": "Il y a 6 j",
-      "iso_date": "2026-07-14T05:37:14+00:00",
+      "date": "13/07/2026",
+      "iso_date": "2026-07-13T18:17:00+00:00",
       "alert": false
     },
     {
@@ -301,19 +301,6 @@
       "alert": false
     },
     {
-      "id": "419d8a579cb6300c2cf325b8026f10e6",
-      "title": "Que faire cette semaine du 13 au 19 juillet 2026 : vos sorties pour une semaine remplie à Paris - Sortir à Paris",
-      "source": "Google News",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOYTRNdksxX3l4aW1rSVNjakZoakdBeEVMLTdzeVM2cDdUVUNOTmkyZGdBMVB3NlBYZnU2UnM4TjNyRGFtM0Q2eUFEMXM5ZklaanFNei1tUmVHOGk5Ul8wT0U4aGdrbHNCT1RYdU0zc3VUWFNpcjJIMzBqVmwwRGhya0RQczBkTGJ1aEJJLXpObzItUmpWNm9UUW03SnBLZTdCcUUycF9HSlRzMWZudDFsMVNIVEkzNnJ2RWFqSjg1UGdIT2pwZ3JwcjI5T21UbmxZbHBhcS1QekRkZTVRbjlKSGdzTTBmZlhUS2c?oc=5",
-      "excerpt": "Que faire cette semaine du 13 au 19 juillet 2026 : vos sorties pour une semaine remplie à Paris&nbsp;&nbsp;Sortir à Paris",
-      "cat": "tendance",
-      "geo": "france",
-      "geo_label": "France",
-      "date": "13/07/2026",
-      "iso_date": "2026-07-13T07:00:00+00:00",
-      "alert": false
-    },
-    {
       "id": "d9652c62885d6df81f49391a7df7a49c",
       "title": "Un chef italien reconnu ouvre un nouveau restaurant en rooftop avec vue sur un port de plaisance de Vendée - Actu.fr",
       "source": "Google News",
@@ -325,32 +312,6 @@
       "date": "11/07/2026",
       "iso_date": "2026-07-11T07:00:00+00:00",
       "alert": false
-    },
-    {
-      "id": "d2f89e2dec4e1f7ae62959807f64df3b",
-      "title": "The Caribbean’s Next Mandarin Oriental Has Launched Construction - Caribbean Journal",
-      "source": "Google News",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONV9ZakVzS19oQTRDdC1Ua0FTbHM3Y21oZXQ0VkQ4OElsc0hSWHlDTGZxcGVCZlo0RWNTMWUzT3drdkMycGg5emZzLWl1dVJqSjRDRFpPYkJQWkxMQWVUeVVFdzRlM2xDTFpiRFJndmtnWEtmaEk5TGZkbXhwb0VMU0YybV80aE0?oc=5",
-      "excerpt": "The Caribbean’s Next Mandarin Oriental Has Launched Construction&nbsp;&nbsp;Caribbean Journal",
-      "cat": "concurrence",
-      "geo": "international",
-      "geo_label": "International",
-      "date": "10/07/2026",
-      "iso_date": "2026-07-10T16:42:45+00:00",
-      "alert": false
-    },
-    {
-      "id": "cfde5047bff70d733e7787d5ff133e07",
-      "title": "Fontenille Collection : Fontenille Collection s’installe en - L'Hôtellerie Restauration",
-      "source": "Google News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZndMSDNYcEtrMEZycUJ5LWlSbzBlbWVzY2tmRzJ1dk5KSmxVUWY4NEREbHpka3hRa0FaS3UwX2tWMndGRUtQY1BIVjdHRzA3c3VGOGw0d1NPY2tNMG42ejdJRFZxT1FBTGE3RWtsWlVKcmx3OUZQS0lLQUF6RF92QkV1ZnQyYVFCMC10TnFjdi0xRktvOWRaRThzT3lHS0ktZko3MlV3?oc=5",
-      "excerpt": "Fontenille Collection : Fontenille Collection s’installe en&nbsp;&nbsp;L'Hôtellerie Restauration",
-      "cat": "concurrence",
-      "geo": "france",
-      "geo_label": "France",
-      "date": "10/07/2026",
-      "iso_date": "2026-07-10T09:38:35+00:00",
-      "alert": true
     },
     {
       "id": "c3a0ac4f8d941bfd1e9fadf52c1f75b8",
@@ -418,19 +379,6 @@
       "alert": false
     },
     {
-      "id": "c603e49f10c21b5b83c4e603710dbbd8",
-      "title": "Talmont-Saint-Hilaire : L’Attilio ouvre une nouvelle page gastronomique à Port Bourgenay - - La Roche sur Yon.maville.com",
-      "source": "Google News",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOS2lzLXNKeDVYNXlxcVgtMGlLa0RFUFNjaW9xRFFSeTgwU1hySXZqR1lESzZVM3V4dkVHd1p5YzdQMy1iNzNaRlNFOVphN21rVHRhZXdxV1pYVE1SMmQyV1lSVlhCSFBaUjJ4OHNaNzkzWmprRmZsdGM2cHgzNTI1emZxYkJ1ZnQ1dnJPTUNJaGdJcWlQemJQVjhndUJNRDZVWHp3UDlPaU4zUDhmN0hzV2hPZmpRcmRmU3Zuc2M1YW9wRE81MFc0a0VwczVLS1hrRjVHSUN1SE9nSnBSQW9ZR2ZNVk9jeG5BZ0RBRQ?oc=5",
-      "excerpt": "Talmont-Saint-Hilaire : L’Attilio ouvre une nouvelle page gastronomique à Port Bourgenay&nbsp;&nbsp;- La Roche sur Yon.maville.com",
-      "cat": "ouverture",
-      "geo": "france",
-      "geo_label": "France",
-      "date": "08/07/2026",
-      "iso_date": "2026-07-08T06:01:00+00:00",
-      "alert": false
-    },
-    {
       "id": "b1b8059a8b2e22365fe89a6c3f5062a1",
       "title": "Les boulangeries Emma ouvrent leur capital pour accélérer le développement de leur réseau",
       "source": "Néo Restauration",
@@ -470,19 +418,6 @@
       "alert": true
     },
     {
-      "id": "c8768fcea09d27a62bfd5f1dc5d92909",
-      "title": "Les nouveaux hôtels de Paris et d'Ile-de-France, nos bonnes adresses et dernières découvertes - Sortir à Paris",
-      "source": "Google News",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPb2dWd3dRUWtXTy1TU1p5VlR3OHZVWTJoZjg2dGx6WVJIVl9fQU1uU0M1YU05VmUxWUtUQjNDbGFyQmlmWVVUUzRLVkNwYUVPczQzeVRhaThyN1M2dzlUd0FiQnc1M3FScF96c3hDTGVvb1hFbjVBaTNHRDJJb0N3bzNCZ0pZNlZZSHJHWXFZaV8?oc=5",
-      "excerpt": "Les nouveaux hôtels de Paris et d'Ile-de-France, nos bonnes adresses et dernières découvertes&nbsp;&nbsp;Sortir à Paris",
-      "cat": "ouverture",
-      "geo": "france",
-      "geo_label": "France",
-      "date": "02/07/2026",
-      "iso_date": "2026-07-02T07:00:00+00:00",
-      "alert": false
-    },
-    {
       "id": "d0f02bb8fa3c43ea7d334a8b611816eb",
       "title": "VIDÉO. On vous fait visiter le tout nouveau quatre étoiles de cette station balnéaire de Loire-Atlantique - Ouest-France",
       "source": "Google News",
@@ -496,6 +431,19 @@
       "alert": true
     },
     {
+      "id": "a8e84961348611bfd133dd49d9f1ad72",
+      "title": "TTW Highlights Top 100 Luxury Hotels in the World for 2026 - Morningstar",
+      "source": "Google News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUjU0bEYzUzdvQy1PdUFQOUNfQzgwVnRic3FrR25JaGQxT3dxcWFmUm5fQUNyOTNMM0tGNFQ1RnN4djlCS3hGZkFQZlctZ09TUUVLVVBTckNITmlEd2F6dXNNSFZMbkVpY013RGhSWDA2X3NzX25PaW0xbjJOdWk4RWZnMlYzUlJRWjZxMmpJOWoxbHVzY0dXZENoSThCWFA2TDF2dnFnSm9LVTZtUUZtd3dvLVQ1Y2w1TzBz?oc=5",
+      "excerpt": "TTW Highlights Top 100 Luxury Hotels in the World for 2026&nbsp;&nbsp;Morningstar",
+      "cat": "tendance",
+      "geo": "international",
+      "geo_label": "International",
+      "date": "27/06/2026",
+      "iso_date": "2026-06-27T07:00:00+00:00",
+      "alert": false
+    },
+    {
       "id": "3584c75b2388d9c5d857a55dd35d0b3c",
       "title": "Mandarin Oriental Mallorca, Big News in Italy & More Hotel News - Upgraded Points",
       "source": "Google News",
@@ -506,6 +454,19 @@
       "geo_label": "International",
       "date": "27/06/2026",
       "iso_date": "2026-06-27T07:00:00+00:00",
+      "alert": false
+    },
+    {
+      "id": "61f7b354827a116a748850b551cb0fd2",
+      "title": "Les Sables-d’Olonne Vendée Tourisme. Evénementiel, Spectacles et Sport sablais 2026 - Le Reporter sablais",
+      "source": "Google News",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUVNJMTZJQUVkVTlkOUhxdExwM1k0dUhKZkJ4bVR6MFczTEV3S093d2FlMi0yMFdHVFNKLUk5c3pHNzQ4aWxiMExZaFhvUUhsUmk4SWh2aTM5cHFCeTQxdnBvY1RFdmZMSEVQR0VyanlZS2JmZXJqcHo4UGVWWWFQMmpSUDd3NmROWjYtYUVfUEhldGdWM0lWbXZ0SWZIV1RENmxzQTA1SlV4Z0FramNoekVFUE45Ul9o?oc=5",
+      "excerpt": "Les Sables-d’Olonne Vendée Tourisme. Evénementiel, Spectacles et Sport sablais 2026&nbsp;&nbsp;Le Reporter sablais",
+      "cat": "tendance",
+      "geo": "france",
+      "geo_label": "Vendée",
+      "date": "25/06/2026",
+      "iso_date": "2026-06-25T17:24:44+00:00",
       "alert": false
     },
     {
@@ -574,19 +535,6 @@
       "alert": false
     },
     {
-      "id": "bfc1aa4f8d3b1284fbe18477533b7464",
-      "title": "Narbonne va accueillir un hôtel de luxe avec l’un des plus grands rooftops de France - L'Indépendant",
-      "source": "Google News",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTXJhbkY1Q2I4SVJ4U1NSV3BLV2NmMnhRWVZDVDlTZXotRlh3VkdvT0JOLVRsbXhDNW9NekIxeFhOZGxfQWhlMFh4RGF0YThicjhXOW1mWktZMzYyR1N3ZlRweDJwS2hiZUp0UWdfSFk0TkFacnVXWElUWXRCU3h6NU4td05TMVM5RU1Wa1hqQWw4TEN0dFd0UkRPTy00TVhIb3RvOTNqcWRid1NPNTFSWFFZb0ttQXZjcHpuWXBrT0k2b3REb3QwZzUzRVVMQkJv?oc=5",
-      "excerpt": "Narbonne va accueillir un hôtel de luxe avec l’un des plus grands rooftops de France&nbsp;&nbsp;L'Indépendant",
-      "cat": "tendance",
-      "geo": "france",
-      "geo_label": "France",
-      "date": "22/06/2026",
-      "iso_date": "2026-06-22T07:00:00+00:00",
-      "alert": false
-    },
-    {
       "id": "72d587bf475ae86d8575402f995e27cc",
       "title": "On a testé l'Attilio, la nouvelle table du Château du Portereau - l'Essentiel media",
       "source": "Google News",
@@ -613,6 +561,19 @@
       "alert": true
     },
     {
+      "id": "b6ff05c598b197d7128ba17c8ddbb189",
+      "title": "Mexican Hospitality Summit 2026 Closes with More Than 400 Industry Professionals and Announces Expansion Across Latin America - Hospitality Net",
+      "source": "Google News",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZzJDWlk3V0t4Rm5RWEtBWVJiS2xhLUhwUUNSLVFZcHFfcUlFUzV1Y2Noa2Y5ZEU3X0t3MGlTM3R5b05LUmJoT2FOTVNBUHotN00tOWgzcFRuamhiS3VUbUFJNEJzRHYtbGFxT0cxQVNqYTExZmtDbU5fUUdzbTlyanlTTzlfMWk3dEJrTFFQN3hjMEhSUngxaUJlYVFCYlF2X0Jzbi0wQnVSUF9YZm1sRFdjUmVtMndTV25KVEtobXVxVV91dk43TnZ6djh5a19EZndrLWQ2d2hRQWh6YzUtQWtjRllydHRSQ1Q5eG9Ha3BXLXNTenpNOEl5YVA4Zw?oc=5",
+      "excerpt": "Mexican Hospitality Summit 2026 Closes with More Than 400 Industry Professionals and Announces Expansion Across Latin America&nbsp;&nbsp;Hospitality Net",
+      "cat": "tendance",
+      "geo": "international",
+      "geo_label": "International",
+      "date": "08/06/2026",
+      "iso_date": "2026-06-08T07:00:00+00:00",
+      "alert": false
+    },
+    {
       "id": "5cb8fd288dec61d639954fdc79b12c2c",
       "title": "Six nouveaux hôtels décrochent la distinction palace - L'Hôtellerie Restauration",
       "source": "Google News",
@@ -626,19 +587,6 @@
       "alert": false
     },
     {
-      "id": "5d5178697fe30b351c698e704cef7813",
-      "title": "Un parcours Attert-Martelange à vélo par la forêt d'Anlier grâce au slow tourisme : \"Le DNF est à présent d'accord de le faire passer par la forêt\" - L'Avenir",
-      "source": "Google News",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNZGt4UWpRRjNOWVVGNnN5WTZKRTEwVDd5Zk5NV1hITkJsY1BQaUVHQkY2X3UyRm5keVRvUkljbkxFWkZTeElwMmF1ZFpCWnJDUVNNSGt4MVlLT0U5aUhoWEFycWpNeVhpdVRnUVYxSU1NUHVBa0MzMlZBZF9Ic3ctb3dsX0Z0M3hDODhJcGFESW1UWG8xdWd2TDU2amtGd3hfbjJTRHdVMEdpbUxHTGxsN21vSmxmaThPTmhLNW12ZFoxUWxrbzJ2OGpmbDJCY3JCNjhNQmhyLUc3VU9aMXhUVTdfMnpqNXdXMlpLVTdYVjU1enpMUzdVVEhwbUdoNm1mNHJWaFdwaTdkbkhtYnNONnVZYy1wMjdlRmJCdGkzTHNwTFkwOVNnV3AwNExWVjZxVkxMUVJCdjVUTENTc3l3ODRFdF8zTGFWbWpEdGRUdw?oc=5",
-      "excerpt": "Un parcours Attert-Martelange à vélo par la forêt d'Anlier grâce au slow tourisme : \"Le DNF est à présent d'accord de le faire passer par la forêt\"&nbsp;&nbsp;L'Avenir",
-      "cat": "tendance",
-      "geo": "france",
-      "geo_label": "France",
-      "date": "04/06/2026",
-      "iso_date": "2026-06-04T07:00:00+00:00",
-      "alert": true
-    },
-    {
       "id": "e6bb4c503a522b53520eee6b5ca12528",
       "title": "Loire-Atlantique : rénovation et restructuration de l’hôtel de ville de Saint-Herblain - Le Moniteur",
       "source": "Google News",
@@ -650,19 +598,6 @@
       "date": "02/06/2026",
       "iso_date": "2026-06-02T07:00:00+00:00",
       "alert": true
-    },
-    {
-      "id": "1b283fb407e0c7bea7efae88657331b3",
-      "title": "Hôtellerie de luxe : quels sont les six nouveaux palaces de 2026 ? - Journal du Luxe",
-      "source": "Google News",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUS1BeW9ScDRZdThKZGs2em85OWNzM3pXTkVmSC0xdy1EZjcxUXI4bWplSGJDZUE3QVNvRDd5Q1htZHlKaWxNWmtycU13QldtWjdCQTZfVFZqMUVpYVg5S0ZXaERRbUFWS1hzei1CM0RYTXFyZkJuMzZjOGNnaHZkZmxSdGFRWmxscTAw0gGQAUFVX3lxTE84NUVOTjllbVNmbklRVVNrYUE1c3psUHd0RzZjWTJvT25tTFBCSmtTc0R3UGxlRnhuUGhMcTJBUzZZdnNQUWpZNFdENHFlcXRVNklSZDIyYTBhdEUxWG0xQW9KQTFGblRoUllHajNCUFBqVmx4ZmhOYmJCb016Vk9MRzFaUW5qQm05V3lqejJPdA?oc=5",
-      "excerpt": "Hôtellerie de luxe : quels sont les six nouveaux palaces de 2026 ?&nbsp;&nbsp;Journal du Luxe",
-      "cat": "ouverture",
-      "geo": "france",
-      "geo_label": "France",
-      "date": "02/06/2026",
-      "iso_date": "2026-06-02T07:00:00+00:00",
-      "alert": false
     },
     {
       "id": "af53068009a3441da48e7fe3e42b8493",
@@ -776,7 +711,7 @@
       "excerpt": "Visite de l’ancien siège de Maisons du Monde, autrefois propriété du créateur du Petit LU, devenu hôtel de luxe&nbsp;&nbsp;Ouest-France",
       "cat": "tendance",
       "geo": "france",
-      "geo_label": "Vertou",
+      "geo_label": "Pays de la Loire",
       "date": "22/05/2026",
       "iso_date": "2026-05-22T07:00:00+00:00",
       "alert": false
@@ -808,16 +743,29 @@
       "alert": false
     },
     {
-      "id": "8994e91793df3e35f04e1cebeb94d440",
-      "title": "Luxury Hotels Market Size, Growth, Trends, Report 2035 - Market Research Future",
+      "id": "02d2b6aba426bb5f8002bda9ca7282ae",
+      "title": "Epopée gestion et Vicaterm acquièrent un 4e actif, à Pornichet en Loire-Atlantique - bretagne-economique.com",
       "source": "Google News",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjdlZGampRU2dGa2tJTTdaaE4zQk5YUmlhUGJBUEpuLU9JOUdGdC1kQ1BPNUZQNTd0MC0tZ2Y1U0x1V3JIWnNSY3ctR243eEl3ZDBCaldFaVk0RFZyQjhLNENtYm1BLUtOOEFuckFORHhMZGNsS2NTZ0dQNA?oc=5",
-      "excerpt": "Luxury Hotels Market Size, Growth, Trends, Report 2035&nbsp;&nbsp;Market Research Future",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLVZ5S2hCbnk3Tl9jUzJfcTdEeE5IUVozREFyZEFpNEhMWVpoMFRsSmlORGNZZnlKeXFsb1Vjbkx5dHk3RENKdFFqSjItTUV3TWNmb1hEcGFJODZtODNkUW15eTJSYUx1Ni1sTmMyelRycTFNdktHSjY5aHdKQXZDNFRxdVJXOUxZRVY4NXhXN1p0STBwR3p4YjMxSTlyWWNjTDRwYW5HMTVVUjhLMTBCQ2RTaFFPUW9FYmN5bk9seXhkRUhmVUtpMA?oc=5",
+      "excerpt": "Epopée gestion et Vicaterm acquièrent un 4e actif, à Pornichet en Loire-Atlantique&nbsp;&nbsp;bretagne-economique.com",
       "cat": "tendance",
-      "geo": "international",
-      "geo_label": "International",
-      "date": "15/05/2026",
-      "iso_date": "2026-05-15T07:00:00+00:00",
+      "geo": "france",
+      "geo_label": "Loire-Atlantique",
+      "date": "12/05/2026",
+      "iso_date": "2026-05-12T10:28:44+00:00",
+      "alert": true
+    },
+    {
+      "id": "f11e841ecf7538eed1c3fdc54ca7bb8a",
+      "title": "Les meilleurs hôtels pour un séminaire dans le sud de la France - yonder.fr",
+      "source": "Google News",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcUpYbDF3WkNLLUJQWFpTclRGRjJNaU12eE1kc1VyRlJsQy1XenI3RDh0UzA4cEY2dElQRDkzSnJsMUtvRTZqRlZQMFFjaUJjNEdlRy1CeVVac0lkbVBMZzZob3d2Ry1zSWZidEJwQU9LLTBvTmJIVngwdUpoODZkaQ?oc=5",
+      "excerpt": "Les meilleurs hôtels pour un séminaire dans le sud de la France&nbsp;&nbsp;yonder.fr",
+      "cat": "mice",
+      "geo": "france",
+      "geo_label": "France",
+      "date": "07/05/2026",
+      "iso_date": "2026-05-07T07:00:00+00:00",
       "alert": false
     },
     {
@@ -870,6 +818,19 @@
       "geo_label": "Val de Loire",
       "date": "24/04/2026",
       "iso_date": "2026-04-24T07:00:00+00:00",
+      "alert": false
+    },
+    {
+      "id": "08663e16b71573bf0ac62526c6ce908f",
+      "title": "Milan Design Week : The Luxury Collection célèbre 120 ans de « Dolce Vita » avec Margherita Maccapani Missoni - MisterTravel",
+      "source": "Google News",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVFZCcVlkWVNrRUFlUTEtZUlQSVVLblBNc0lIZHRab2EtT2ZPZXczU19zYlA5bWRHQ2JZZ1ZCUV95d0VXeTJLZVFUd0p6Z09ZLThXVFdycHd2VWxJU1NtU2dDMUxTY0NEMU5Ic3Q3aDRZajNnbUNtaFZiZTUtS2NMMGxIWkNDcE9UTDVrak9NbHZTWXRkS2dIa2JtRGp5bUNRN004QVpGZnIxR1hmb3hDczRHRjZjRWVEcmYtbFZHNFJ1Wm1Ucm0yc1FMZk90cU4zZnNfRVBDZ00?oc=5",
+      "excerpt": "Milan Design Week : The Luxury Collection célèbre 120 ans de « Dolce Vita » avec Margherita Maccapani Missoni&nbsp;&nbsp;MisterTravel",
+      "cat": "tendance",
+      "geo": "france",
+      "geo_label": "France",
+      "date": "21/04/2026",
+      "iso_date": "2026-04-21T07:00:00+00:00",
       "alert": false
     },
     {
@@ -938,6 +899,19 @@
       "alert": true
     },
     {
+      "id": "ec5d9930af3a3a3f5831b893683ded4b",
+      "title": "After 26 years, The Mandarin Oriental, a hotel at one of Miami's most exclusive locations, was demolished on Sunday, but the spot where it stood will be the site for a bigger complex. According to Swire Properties, the demolition made way for the groundbreaki - facebook.com",
+      "source": "Google News",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOY2hmUnRBRjFNRTNOOWtYQWo1QjBzV0ZscllpWk05SE9PUkp1UlFjT2RDUkhUNEpJUFN2SXRIbVRaWUtmTVlMQmFBZl9OR1lYQ3NqT250QXZvelp3Zi15anY4TFh2QlZEQlJQcjdfRjNHemN3OHRDUE5FQU02R3FGMHpEYTVJSm1KaDJmQW9Eb1JFcWVyNmZackg2eEx2WHY1czUzS0xEY2xQbGUxZnFYR1ZRakxvcUNNVnFYM3BmUkdMZVlhcHlYN1BSRlBGSWxmLWFzeG1XYTRLX3gwbXM3aQ?oc=5",
+      "excerpt": "After 26 years, The Mandarin Oriental, a hotel at one of Miami's most exclusive locations, was demolished on Sunday, but the spot where it stood will be the site for a bigger complex. According to Swire Properties, the demolition made way for the groundbreaki&nbsp;&nbsp;facebook.",
+      "cat": "concurrence",
+      "geo": "international",
+      "geo_label": "International",
+      "date": "13/04/2026",
+      "iso_date": "2026-04-13T07:00:00+00:00",
+      "alert": false
+    },
+    {
       "id": "b577ee6aaee2d8ea9156fa111ababf09",
       "title": "The Mandarin Oriental is gone. Say hello to The Residences at Mandarin Oriental - NBC 6 South Florida",
       "source": "Google News",
@@ -1003,17 +977,17 @@
       "alert": true
     },
     {
-      "id": "156e99445d4be13851510b9e96539f65",
-      "title": "Loire-Atlantique : cet hôtel vous rembourse... s'il pleut - Bonjour - TF1+",
+      "id": "516036a93d963dc3845501681531870c",
+      "title": "Accor va installer sa nouvelle marque d'hôtels de luxe en France - Journal du Luxe",
       "source": "Google News",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZnZySERtRGc0bGVWLXpYM29sb3lVWFZBUl9fMGJZLU85LW1QRjVROVl0UUJvNDlTWkhyeFlxVGJIbFFjYzRCVlY5OVBqaHZ4MmpiRHo0NXJlUElaYm1IMGc1ZEVta1Q3MU1CdlNqTHpmbWN5UTAyQVVBdHdsVE84bHRxNnpyOTluVkk2Zy1VRmgzNVFhLWdzUzVFeHFMRk9zM2FLQ0YtV3k3ZUtLQVBKMTY2ZmgyLUV5eS1N?oc=5",
-      "excerpt": "Loire-Atlantique : cet hôtel vous rembourse... s'il pleut - Bonjour&nbsp;&nbsp;TF1+",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNanRTY2JJTTVFaXkzZ2ZZR1BJakw1VF9rdkRTUkFOMVNyT0lEUXRFaDczMnpLZmVtRGVRSF83UkpZekZIaVJTRGcyUDh0MWtIZHgyOWhjclRuTE40cTE0S2FkbkkyeWpKN0ZRdnViRGV2X010eTdfYWJoSWdrRlNkRkxyMzhueWtxbkpjb0Rmd0tYY1luaTVuYjdKREkwdU9xSlo4LVBNeDZzN0xDczZfajVOZ3BmZXFrRUg0cUFkMUZwTWl5b1FNaVQxeTZBdzBzdVHSAdcBQVVfeXFMT0pMdUhTMXRaZmw1bVZIWEltajBCNmZaQjZBbVJRcXdCb3NVeFNha2VjLW0xUGpTeW9Nendxb2JFQjVmZGt1UDhRR1JBUzRNaU1oX3dtNTJnbXNuSU0zYmRsUS1SckYwd1V0VEF0RC1iNmpyMUtfdjBtZzRQYUc0MUxUUzNrRlNSQlkwZWJIQXVJYjlfYk1Jcjk1SmNnU1BqZUdZWkFySDc2U0Z3bXRwdTBBVnVyOFp6T0xlUUlGOXFDdzl3Wm4tOV9Kc291LUVqUjBodDltN28?oc=5",
+      "excerpt": "Accor va installer sa nouvelle marque d'hôtels de luxe en France&nbsp;&nbsp;Journal du Luxe",
       "cat": "tendance",
       "geo": "france",
-      "geo_label": "Loire-Atlantique",
+      "geo_label": "France",
       "date": "02/04/2026",
       "iso_date": "2026-04-02T07:00:00+00:00",
-      "alert": true
+      "alert": false
     },
     {
       "id": "f95d06897d9f38b25b2b2f203ff82739",
@@ -1092,19 +1066,6 @@
       "date": "27/03/2026",
       "iso_date": "2026-03-27T07:00:00+00:00",
       "alert": true
-    },
-    {
-      "id": "8fdb8375c0187c6b7f8b489a33afa721",
-      "title": "Golf : 13 hôtels de luxe sur les plus beaux parcours de France - yonder.fr",
-      "source": "Google News",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM2k1WWhMdGdNN2haZ2JhS1pYaThLVVJyQi1MeThjdy1KRUMwR1gxM0RZMTZHajFXVi15VVphYlZ3aEt1eExPMThoQlVDaTlZTzlKbUNJVm9JWURRNEtvRkM4RUV2WS1DalVkSnZ4RFotTTJGME5uSHA2S1dZQlFxZU56dw?oc=5",
-      "excerpt": "Golf : 13 hôtels de luxe sur les plus beaux parcours de France&nbsp;&nbsp;yonder.fr",
-      "cat": "tendance",
-      "geo": "france",
-      "geo_label": "France",
-      "date": "20/03/2026",
-      "iso_date": "2026-03-20T07:00:00+00:00",
-      "alert": false
     },
     {
       "id": "1bc49f99435cd95f039b776695c6441b",
@@ -1341,6 +1302,19 @@
       "alert": false
     },
     {
+      "id": "5d327109084aa307aadd7ad8f7d89988",
+      "title": "Four Seasons Hotel Philadelphia Named Best Hotel in Philadelphia in 2026 U.S. News and World Report Best Hotels Rankings - Four Seasons Press Room",
+      "source": "Google News",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQemRydVI3R3ExRUh4NEY1MFpndm9SV0FMWGJiWnZNcEVMcHVZcFVLT3F2QWxQSVJQTm8xckZqUDBsWnJhX1hudm9GYWpjSGlVMW9JMFNocGRvMjFtX3h0Z2ZJcFNQbjRVQ3Y1Zk1Ic2ExS0pFdy1MMzBJMlQ3OG1DN1hNTWNmdHpfM0JQeklkUQ?oc=5",
+      "excerpt": "Four Seasons Hotel Philadelphia Named Best Hotel in Philadelphia in 2026 U.S. News and World Report Best Hotels Rankings&nbsp;&nbsp;Four Seasons Press Room",
+      "cat": "innovation",
+      "geo": "international",
+      "geo_label": "International",
+      "date": "10/02/2026",
+      "iso_date": "2026-02-10T08:00:00+00:00",
+      "alert": false
+    },
+    {
       "id": "2646ff0d6b123c008fac1be44f938bc8",
       "title": "Le luxe à la campagne au Château de Noirieux **** - InfoTravel.fr",
       "source": "Google News",
@@ -1455,6 +1429,32 @@
       "geo_label": "International",
       "date": "12/01/2026",
       "iso_date": "2026-01-12T08:00:00+00:00",
+      "alert": false
+    },
+    {
+      "id": "d34a8229bc1c4990c045b248e7e50dce",
+      "title": "Le guide complet des nouveaux hôtels de luxe en 2026 - yonder.fr",
+      "source": "Google News",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94XzJoUGpXUlFtQi1HZEhmdzFkYmh6bVA3VDQ2d1dhdWNtVkJVVnhoNTFvMTFFSG9VSzVkTmhlUDdEN2tnSEZibVRkajhOc0dQdWhBQkd3S1BaakxibTlUNmhFX1hST2stcUhUeFZOOTc?oc=5",
+      "excerpt": "Le guide complet des nouveaux hôtels de luxe en 2026&nbsp;&nbsp;yonder.fr",
+      "cat": "ouverture",
+      "geo": "france",
+      "geo_label": "France",
+      "date": "08/01/2026",
+      "iso_date": "2026-01-08T08:00:00+00:00",
+      "alert": false
+    },
+    {
+      "id": "121d85a2dc8e20549b04be3b7074898e",
+      "title": "L’hôtellerie portée par la Côte d’Azur et le luxe en 2025 - La Tribune",
+      "source": "Google News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZFFkOG1HbER3X2h2RzR4Wi02SU9YTDB3c0F6NVNEZnBoQlZkQVVZYW94VHZTRDNGcC1UeG95S2Vidm9xMFNiZDVHX2tYbFgySWRYd3JHT1p3Q3ExRG52VDl3OHl4TlZaUUlqTkhJcVRVUzZzZVNEWkZBR3ctT1lfV3BLaGU4c0E1UFdPY2l5MVF2enVqRV9jTmlEbmpRMm9rOTFvR3RKOW5Gck1vUXJscWxIS05aYWs?oc=5",
+      "excerpt": "L’hôtellerie portée par la Côte d’Azur et le luxe en 2025&nbsp;&nbsp;La Tribune",
+      "cat": "tendance",
+      "geo": "france",
+      "geo_label": "France",
+      "date": "07/01/2026",
+      "iso_date": "2026-01-07T08:00:00+00:00",
       "alert": false
     },
     {

@@ -1,6 +1,32 @@
 {
-  "updated": "2026-09-26T10:27:37.379515+00:00",
+  "updated": "2026-09-27T10:58:49.651371+00:00",
   "items": [
+    {
+      "id": "1562239bbb4801f057115db9bb7a6967",
+      "title": "Conférence à Arpajon-sur-Cère : l'évolution des châteaux forts du IXe au XIIIe siècle - La Montagne",
+      "source": "Google News",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMDlXeGRxTkxoUGpoM2NFU09DYXhIWGVpNzFwcnFOdkJKMG9aTDV4Z0lzRy0tX2tZc3RRRnN6N0ZLaVpOZWpLcmljaGp6X1FlUnFPTFNNQkVvSkRKU1ZWakxIUjk0S3J0bGZ3VkxsMFF1Y1NkeE1ZUW5meDVUVDlzLUhtUFR6Um94Q21IWU1jWkVFNVMtWW9YZTVzb19hTXdGWnFPMVdMSDBibnpadmItUzdyOXZ3dk5MYUdIdV8tcUF5dWlvVDdxdm9VQnBUajN5VHRSTjRPR2RrT2dSSTNqZkhzMVk?oc=5",
+      "excerpt": "Conférence à Arpajon-sur-Cère : l'évolution des châteaux forts du IXe au XIIIe siècle&nbsp;&nbsp;La Montagne",
+      "cat": "mice",
+      "geo": "france",
+      "geo_label": "France",
+      "date": "Il y a 6h",
+      "iso_date": "2026-09-27T04:16:00+00:00",
+      "alert": false
+    },
+    {
+      "id": "f7f654fa1a5f30d411c24bb22c06d409",
+      "title": "Mandarin Oriental Conservatorium Appoints Emmy Stoel as General Manager - Hospitality & Catering News",
+      "source": "Google News",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTFU2SFJ1eXN6MU9IV3puUU5DRENzRzZESVpFOEdqcDZOV2JLRHpDX3BkN2tKSUROSHpyVFJ5YnNtZmhYMTgxVmQ4Y3hvREdzZzdJTWF4WWFIU3MyNjluSkhfTDh6UDlHQnNHWGI2SjdmQXFZS0VVdzFsNWwtOGJuWlEtaEJVa2ZjRUVXeFlvT2ptRHVpODZJV1pIYUlIa0VwRXBGVVVpSEZsRllEaHVOMXYtNlFnRWNXN2xHMW5ZYkQ?oc=5",
+      "excerpt": "Mandarin Oriental Conservatorium Appoints Emmy Stoel as General Manager&nbsp;&nbsp;Hospitality & Catering News",
+      "cat": "concurrence",
+      "geo": "international",
+      "geo_label": "International",
+      "date": "Il y a 11h",
+      "iso_date": "2026-09-26T23:04:22+00:00",
+      "alert": false
+    },
     {
       "id": "a853814a8a1aab3846c5d88ff2e4a02f",
       "title": "Expedia Cuts 58 Roles in Latest Layoff Round",
@@ -10,7 +36,7 @@
       "cat": "innovation",
       "geo": "international",
       "geo_label": "International",
-      "date": "Il y a 7h",
+      "date": "Il y a 1 j",
       "iso_date": "2026-09-26T02:51:26+00:00",
       "alert": false
     },
@@ -23,7 +49,7 @@
       "cat": "gastronomie",
       "geo": "international",
       "geo_label": "International",
-      "date": "Il y a 14h",
+      "date": "Il y a 1 j",
       "iso_date": "2026-09-25T20:19:36+00:00",
       "alert": false
     },
@@ -36,7 +62,7 @@
       "cat": "innovation",
       "geo": "international",
       "geo_label": "International",
-      "date": "Il y a 14h",
+      "date": "Il y a 1 j",
       "iso_date": "2026-09-25T20:17:18+00:00",
       "alert": false
     },
@@ -49,7 +75,7 @@
       "cat": "innovation",
       "geo": "international",
       "geo_label": "International",
-      "date": "Il y a 14h",
+      "date": "Il y a 1 j",
       "iso_date": "2026-09-25T20:16:04+00:00",
       "alert": false
     },
@@ -62,7 +88,7 @@
       "cat": "tendance",
       "geo": "international",
       "geo_label": "International",
-      "date": "Il y a 14h",
+      "date": "Il y a 1 j",
       "iso_date": "2026-09-25T20:14:55+00:00",
       "alert": false
     },
@@ -75,7 +101,7 @@
       "cat": "tendance",
       "geo": "international",
       "geo_label": "International",
-      "date": "Il y a 16h",
+      "date": "Il y a 1 j",
       "iso_date": "2026-09-25T18:25:17+00:00",
       "alert": false
     },
@@ -88,7 +114,7 @@
       "cat": "tendance",
       "geo": "international",
       "geo_label": "International",
-      "date": "Il y a 16h",
+      "date": "Il y a 1 j",
       "iso_date": "2026-09-25T18:09:30+00:00",
       "alert": false
     },
@@ -101,8 +127,47 @@
       "cat": "tendance",
       "geo": "international",
       "geo_label": "International",
-      "date": "Il y a 17h",
+      "date": "Il y a 1 j",
       "iso_date": "2026-09-25T17:26:28+00:00",
+      "alert": false
+    },
+    {
+      "id": "653e2786996e687156648276012d4db8",
+      "title": "Un nouveau directeur général pour KFC France",
+      "source": "Néo Restauration",
+      "link": "https://www.neorestauration.com/article/un-nouveau-directeur-general-pour-kfc-france,74401",
+      "excerpt": "Lucas Gilliard succède à Isabelle Herman à la direction générale de KFC France.",
+      "cat": "ouverture",
+      "geo": "france",
+      "geo_label": "France",
+      "date": "Il y a 1 j",
+      "iso_date": "2026-09-25T16:09:00+00:00",
+      "alert": false
+    },
+    {
+      "id": "91d8c0eda92c7f8afb53b37d687cca21",
+      "title": "Les vêtements professionnels : entre style, praticité et responsabilité",
+      "source": "Néo Restauration",
+      "link": "https://www.neorestauration.com/article/les-vetements-pros-entre-style-praticite-et-responsabilite,74394",
+      "excerpt": "Au-delà de leur aspect fonctionnel, les vêtements professionnels misent de plus en plus sur le style, mais aussi la dimension RSE, pour mieux coller aux attentes des restaurateurs et leurs clients.",
+      "cat": "tendance",
+      "geo": "france",
+      "geo_label": "France",
+      "date": "Il y a 1 j",
+      "iso_date": "2026-09-25T16:01:00+00:00",
+      "alert": false
+    },
+    {
+      "id": "fd8021e0a9cfee5b36ab8a1aff5fe5b3",
+      "title": "Le glacier italien Rivareno veut se développer en franchise dans les grandes villes de France",
+      "source": "Néo Restauration",
+      "link": "https://www.neorestauration.com/article/le-glacier-italien-rivareno-veut-se-developper-en-franchise-dans-les-grandes-villes-de-france,74400",
+      "excerpt": "Quelques mois après son arrivée à Paris, Rivareno souhaite se développer dans plusieurs villes de France. Pour cela, il recherche ses futurs franchisés.",
+      "cat": "tendance",
+      "geo": "france",
+      "geo_label": "France",
+      "date": "Il y a 1 j",
+      "iso_date": "2026-09-25T15:47:00+00:00",
       "alert": false
     },
     {
@@ -114,7 +179,7 @@
       "cat": "tendance",
       "geo": "france",
       "geo_label": "France",
-      "date": "Il y a 18h",
+      "date": "Il y a 1 j",
       "iso_date": "2026-09-25T15:32:00+00:00",
       "alert": false
     },
@@ -127,22 +192,9 @@
       "cat": "concurrence",
       "geo": "france",
       "geo_label": "France",
-      "date": "Il y a 22h",
+      "date": "Il y a 1 j",
       "iso_date": "2026-09-25T11:55:31+00:00",
       "alert": true
-    },
-    {
-      "id": "e2f2116a644b740fd40fc17b6fc42f08",
-      "title": "Review: Mandarin Oriental Mayfair is a luxury hotel for everyday life - MoneyWeek",
-      "source": "Google News",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRXJDVmVqMHF2ZjltOFJmT0JWd0hDSGpVd3FLZTQ5WjlEWmhJU1BhZi1ZUGFFc0l3NzY5T2g5UnhXVHpReEhxTFltcUtMUFZxOU5HeUZyUU1STDBrUFdvcC1Ua2JNYmlPUHhiNVpxM3FWdUJhaW9JVFhKbks3VVZTRVdkUjczRkl2Vjg5THdzdGxZekFocGt5WkpPT0xaem9TU2RZbWlSUllMUXVTNUVpWmJQWQ?oc=5",
-      "excerpt": "Review: Mandarin Oriental Mayfair is a luxury hotel for everyday life&nbsp;&nbsp;MoneyWeek",
-      "cat": "concurrence",
-      "geo": "international",
-      "geo_label": "International",
-      "date": "Il y a 23h",
-      "iso_date": "2026-09-25T11:26:59+00:00",
-      "alert": false
     },
     {
       "id": "d33d10c3bb5de91527a0fd71d854749f",
@@ -153,21 +205,8 @@
       "cat": "tendance",
       "geo": "france",
       "geo_label": "France",
-      "date": "Il y a 1 j",
-      "iso_date": "2026-09-25T09:46:01+00:00",
-      "alert": false
-    },
-    {
-      "id": "2c0a4d58c21b1d96a26f0fa661368fc9",
-      "title": "RESET FOR THE SEASON: MANDARIN ORIENTAL JUMEIRA, DUBAI INVITES GUESTS TO RESTORE BALANCE AND RECONNECT - Hotel & Catering",
-      "source": "Google News",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM2ZnUHc0dE1hQzB2LVFLMU03YkR1Tlp6Nk41RGVVWkhuT1g4VFVxX3hIdTJWc2pTNm4yeHVfU2xTNmVGUWkzbHNUOXVtMjRSUnhVazNYcDREN2RSMFl6ZjZXMk05RjFxRWVfVXpNcmZRNmRRUlJQWDFzZjZuazFheHRGTzVhZ01TRlFNY3R3clJIRUd0N2l3T1hIdllqWTktNC02TzdpNWl1b2dOVkVxaVpha1l1TWEzRUZLUWlidGM4Ulg3RjJ0SG5GRHRsQXc?oc=5",
-      "excerpt": "RESET FOR THE SEASON: MANDARIN ORIENTAL JUMEIRA, DUBAI INVITES GUESTS TO RESTORE BALANCE AND RECONNECT&nbsp;&nbsp;Hotel & Catering",
-      "cat": "concurrence",
-      "geo": "international",
-      "geo_label": "International",
       "date": "Il y a 2 j",
-      "iso_date": "2026-09-24T08:35:05+00:00",
+      "iso_date": "2026-09-25T09:46:01+00:00",
       "alert": false
     },
     {
@@ -179,22 +218,9 @@
       "cat": "concurrence",
       "geo": "international",
       "geo_label": "International",
-      "date": "Il y a 2 j",
+      "date": "Il y a 3 j",
       "iso_date": "2026-09-23T13:49:30+00:00",
       "alert": false
-    },
-    {
-      "id": "f745c543168b0933394a6c8b88e1037f",
-      "title": "Mandarin Oriental The Landmark Hong Kong awarded two MICHELIN Keys - The Hotel Conversation",
-      "source": "Google News",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSk1UOUZhdUtqV3p0a3Z1Qzg1U0VoRjBXb21VWkd6UTRQTllOSDU1bVdnd1RyU01mYl9DZ0VIbDNPb1pRUG9kRjJ4Y1JoczJacFRLcURReW1rZzZlN0VsQkNXYklrcFVrak1TZXpuT3ljbXFxT2RnaEdRT2NKUHJLZTdOZ1R5bld5RF8weEU2UDM1NXN3WnZpamhBVDR6bUtoQU5sem1naDh3Qm5JSTM2VHJFQ1J4c3dYaWhUejh5YTJ2MFdSMnZDbQ?oc=5",
-      "excerpt": "Mandarin Oriental The Landmark Hong Kong awarded two MICHELIN Keys&nbsp;&nbsp;The Hotel Conversation",
-      "cat": "concurrence",
-      "geo": "international",
-      "geo_label": "International",
-      "date": "Il y a 3 j",
-      "iso_date": "2026-09-23T05:24:01+00:00",
-      "alert": true
     },
     {
       "id": "e4e43a8c73d39860cef59776524aefb0",
@@ -205,9 +231,22 @@
       "cat": "concurrence",
       "geo": "france",
       "geo_label": "France",
-      "date": "Il y a 3 j",
+      "date": "Il y a 4 j",
       "iso_date": "2026-09-22T14:17:39+00:00",
       "alert": true
+    },
+    {
+      "id": "5b996516d522485d4a5666260a1d25c1",
+      "title": "Éléonore Leprettre nommée directrice générale du Snarr",
+      "source": "Néo Restauration",
+      "link": "https://www.neorestauration.com/article/eleonore-leprettre-nommee-directrice-generale-du-snarr,74402",
+      "excerpt": "Le Syndicat national de l'alimentation et de la restauration rapide (Snarr) annonce la nomination d'Éléonore Leprettre en tant que directrice générale.",
+      "cat": "tendance",
+      "geo": "france",
+      "geo_label": "France",
+      "date": "Il y a 5 j",
+      "iso_date": "2026-09-22T04:12:00+00:00",
+      "alert": false
     },
     {
       "id": "9b371dd906b39723caae0bbc7274891f",
@@ -218,22 +257,9 @@
       "cat": "tendance",
       "geo": "france",
       "geo_label": "Vertou",
-      "date": "Il y a 4 j",
+      "date": "Il y a 5 j",
       "iso_date": "2026-09-21T12:16:25+00:00",
       "alert": true
-    },
-    {
-      "id": "77b074268b27dbad5355b5254a089a04",
-      "title": "Prada, Jack Daniel’s, Heinz and Hotel Chocolat Among London Packaging Week Innovation Awards Winners - WhatTheyThink",
-      "source": "Google News",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZGM4UjJES19TVVd4SFFaUm5iczNPRWRFOVBwME5xZk1rV2owMlkxWkk5T2wyUzBURTl2TkxHMGZYcWdDUDhSQVA1SmpHNExaQ1Rha25GZzk5cVl1cVBhVjhGUjJoUmQxcGdydXhvMml3cUhJeFFUbHVIVWx2M2x4cDZ4eUc2dnN6T1A5dm1kbkNDQTBFd0JsOHozMlhnTGZoRkR4NVVMM29Wd3JEaGNkVU1nYkNKSHluR0tIa0V4UXloN2dqclVDcTRidFg?oc=5",
-      "excerpt": "Prada, Jack Daniel’s, Heinz and Hotel Chocolat Among London Packaging Week Innovation Awards Winners&nbsp;&nbsp;WhatTheyThink",
-      "cat": "innovation",
-      "geo": "international",
-      "geo_label": "International",
-      "date": "Il y a 5 j",
-      "iso_date": "2026-09-21T06:29:56+00:00",
-      "alert": false
     },
     {
       "id": "bc65b6c8416550469091b78237b9c040",
@@ -244,7 +270,7 @@
       "cat": "mice",
       "geo": "international",
       "geo_label": "International",
-      "date": "Il y a 5 j",
+      "date": "Il y a 6 j",
       "iso_date": "2026-09-21T06:19:35+00:00",
       "alert": false
     },
@@ -323,20 +349,7 @@
       "geo": "france",
       "geo_label": "France",
       "date": "18/09/2026",
-      "iso_date": "2026-09-18T10:51:12+00:00",
-      "alert": false
-    },
-    {
-      "id": "2e48d4558993d5b4af47a04766328757",
-      "title": "\"They put me up at the Mandarin Oriental at the time … - Yahoo Sports",
-      "source": "Google News",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOb3BLZEp1cGtROEJwMGh2S1pkdE5TTGc1ZmIxOS0tVktCaEZUTVF4c05JSFdLMG5BRXhKQWdaQklranBZWkNzQVR3QjdkZ1Z1eUJuN2ZZUnFKYnluUGE4Qk9qZnBfb0EySWZfM1JlTVl0dGhBOElFWjBlUm5CYU9GMA?oc=5",
-      "excerpt": "\"They put me up at the Mandarin Oriental at the time …&nbsp;&nbsp;Yahoo Sports",
-      "cat": "concurrence",
-      "geo": "international",
-      "geo_label": "International",
-      "date": "17/09/2026",
-      "iso_date": "2026-09-17T22:19:55+00:00",
+      "iso_date": "2026-09-18T07:00:00+00:00",
       "alert": false
     },
     {
@@ -366,6 +379,32 @@
       "alert": false
     },
     {
+      "id": "2e48d4558993d5b4af47a04766328757",
+      "title": "\"They put me up at the Mandarin Oriental at the time … - Yahoo Sports",
+      "source": "Google News",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOb3BLZEp1cGtROEJwMGh2S1pkdE5TTGc1ZmIxOS0tVktCaEZUTVF4c05JSFdLMG5BRXhKQWdaQklranBZWkNzQVR3QjdkZ1Z1eUJuN2ZZUnFKYnluUGE4Qk9qZnBfb0EySWZfM1JlTVl0dGhBOElFWjBlUm5CYU9GMA?oc=5",
+      "excerpt": "\"They put me up at the Mandarin Oriental at the time …&nbsp;&nbsp;Yahoo Sports",
+      "cat": "concurrence",
+      "geo": "international",
+      "geo_label": "International",
+      "date": "17/09/2026",
+      "iso_date": "2026-09-17T07:00:00+00:00",
+      "alert": false
+    },
+    {
+      "id": "3bcbf37b45119ad78a1e8abd70760289",
+      "title": "Mandarin Oriental, Bangkok Welcomes Paul Jones as General Manager - Hotel Online",
+      "source": "Google News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV0NkYkRvZFNtVlRZS1lyWDM1ZVZVbTlSOElGT0lLYWhTajZHZk9IV0YzMmdaSUVsMjMwS1B6T0QyMmJjVm5CRXg5bzh5bGpVRXlRMXhnRkdaU05TazNjSTJIUko4YU54SUZlOWVkRHRXbGZySzM4YXRRUm9OY09mRGlPeFlzSGctSzNnMXZxa2xGaGM2cUlBZEsyWWF2b3M?oc=5",
+      "excerpt": "Mandarin Oriental, Bangkok Welcomes Paul Jones as General Manager&nbsp;&nbsp;Hotel Online",
+      "cat": "concurrence",
+      "geo": "international",
+      "geo_label": "International",
+      "date": "16/09/2026",
+      "iso_date": "2026-09-16T15:04:22+00:00",
+      "alert": false
+    },
+    {
       "id": "f595870cb9dfe9d8d5838a3d36b61485",
       "title": "Du manoir de chasse au boutique-hôtel, la renaissance du château de Portereau - Business Immo",
       "source": "Google News",
@@ -376,19 +415,6 @@
       "geo_label": "Vertou",
       "date": "16/09/2026",
       "iso_date": "2026-09-16T13:11:00+00:00",
-      "alert": false
-    },
-    {
-      "id": "b22be5fb1dfee08e124f8169830642c3",
-      "title": "Poké bowl: Heiko se déploie outre-mer",
-      "source": "Néo Restauration",
-      "link": "https://www.neorestauration.com/article/poke-bowl-heiko-se-deploie-outre-mer,74396",
-      "excerpt": "L'enseigne fondée à Bordeaux en 2018 ouvre ce mercredi 16 septembre son 29e restaurant à Saint-Pierre sur l'île de la Réunion.",
-      "cat": "ouverture",
-      "geo": "france",
-      "geo_label": "France",
-      "date": "15/09/2026",
-      "iso_date": "2026-09-15T08:32:00+00:00",
       "alert": false
     },
     {
@@ -405,32 +431,6 @@
       "alert": false
     },
     {
-      "id": "1c06d8ea24adec841e305d812342d8e8",
-      "title": "Restauration collective: les produits Bleu Blanc Coeur désormais éligibles Egalim",
-      "source": "Néo Restauration",
-      "link": "https://www.neorestauration.com/article/restauration-collective-les-produits-bleu-blanc-coeur-desormais-eligibles-egalim,74360",
-      "excerpt": "La loi d'urgence pour la protection et la souveraineté agricole reconnaît les performances nutritionnelles et environnementales de la démarche initiée il y a 25 ans.",
-      "cat": "tendance",
-      "geo": "france",
-      "geo_label": "France",
-      "date": "14/09/2026",
-      "iso_date": "2026-09-14T07:50:00+00:00",
-      "alert": false
-    },
-    {
-      "id": "eb0605b9cccda56d1144ce3791cca93d",
-      "title": "Restauration d'entreprise: Elior s'inspire des street foods du monde",
-      "source": "Néo Restauration",
-      "link": "https://www.neorestauration.com/article/restauration-d-entreprise-elior-s-inspire-des-street-foods-du-monde,74359",
-      "excerpt": "À mi-chemin entre food market et show cooking, Street Kitchen ambitionne de réenchanter la pause déjeuner des salariés en faisant voyager leurs papilles chaque semaine.",
-      "cat": "tendance",
-      "geo": "france",
-      "geo_label": "France",
-      "date": "11/09/2026",
-      "iso_date": "2026-09-11T09:31:00+00:00",
-      "alert": false
-    },
-    {
       "id": "65643f7defcba1553d5e0c96c62e75e0",
       "title": "On a testé le DIOR Spa Cheval Blanc Paris - La Revue des Hôtels",
       "source": "Google News",
@@ -442,19 +442,6 @@
       "date": "11/09/2026",
       "iso_date": "2026-09-11T07:00:00+00:00",
       "alert": true
-    },
-    {
-      "id": "8293f34e9fdd8ae7768c1c8c366e0c87",
-      "title": "Feef d’Or 2026 : découvrez quelles sont les meilleures collaborations PME - acteurs RHD",
-      "source": "Néo Restauration",
-      "link": "https://www.neorestauration.com/article/feef-d-or-2026-decouvrez-les-meilleures-collaborations-pme-acteurs-rhd,74358",
-      "excerpt": "Mardi 8 septembre 2026, la cérémonie des Feef D’Or a distingué les meilleures collaborations entre PME-ETI et distributeurs. Deux partenariats avec des acteurs de la restauration hors domicile ont été récompensés. Découvrez qui sont les lauréats de cette 28e édition.",
-      "cat": "ouverture",
-      "geo": "france",
-      "geo_label": "France",
-      "date": "09/09/2026",
-      "iso_date": "2026-09-09T09:42:00+00:00",
-      "alert": false
     },
     {
       "id": "71e613baaf98d9616a6bc354256c804f",
@@ -522,19 +509,6 @@
       "alert": true
     },
     {
-      "id": "c6f38d9ff5bfdd767ff0dc3d75879c18",
-      "title": "De l'émotion aux mégadeals : les tendances clés des investissements hôteliers de luxe - Journal du Luxe",
-      "source": "Google News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWEZsYmxmRFo2MUxLNWlBNXFwN3Q4bGc4c0l4LVJFSjFkR0tFME5wVzQ2cnQzcG8tM3hra2MzSkNKbmhZVEJ4SjQ1VXBxWXFTcnFOVGVGREt1R2dqUUtTa05MYkRfRXJCVThpOEJqbFdFcFphcEJTWFFRUHJiLU1LZTI4SkJUb1FJRUt4bE1VVXpSOEQ4QVHSAZsBQVVfeXFMTUI5dEZ2N3pKVGhyQV9HYmJIUk1Id3kzU0VOeGF0RjI0c0Q4OGtxZGE1c0EwRjRQX0ZKREZJdnlyLVJ3MlFRNFdJVUZCa2RiYVlFaFVvanhrQkJWenJUWU5Bc2ZHcHhQV0F5NnZhdGxjLTNDOHVDcFlOQU12ZlpzRHhZakZTZGJocmNxYVZsN1JsZGxYVEQ4UG9mR0k?oc=5",
-      "excerpt": "De l'émotion aux mégadeals : les tendances clés des investissements hôteliers de luxe&nbsp;&nbsp;Journal du Luxe",
-      "cat": "tendance",
-      "geo": "france",
-      "geo_label": "France",
-      "date": "20/08/2026",
-      "iso_date": "2026-08-20T07:00:00+00:00",
-      "alert": false
-    },
-    {
       "id": "e291f8c3fbc1ca46ac95b23d30a3c915",
       "title": "L’hôtel de Bernard Arnault décroche un précieux label cinq ans après son ouverture à Paris - melty.fr",
       "source": "Google News",
@@ -574,19 +548,6 @@
       "alert": false
     },
     {
-      "id": "6bd4c6aaf293204da9b2719f5a2e2780",
-      "title": "Hôtel de luxe en famille : nos meilleures adresses, du kids club de Gordes aux suites communicantes de Deauville - La Revue des Hôtels",
-      "source": "Google News",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UR3Jua3RxMWV5VmZOYV9kb215b05oajlsbUdkOXNHdzMwSWR2SE8zYnMtS2VaZnNlVFA5ZmhWQzVaZzhyZ3lCM2lVR0NmUElmMTRsbmpZdkR4VWdHTzd6VU51cTlZMXBlbGM0cXBrZEM3MkZvN0E?oc=5",
-      "excerpt": "Hôtel de luxe en famille : nos meilleures adresses, du kids club de Gordes aux suites communicantes de Deauville&nbsp;&nbsp;La Revue des Hôtels",
-      "cat": "tendance",
-      "geo": "france",
-      "geo_label": "France",
-      "date": "13/08/2026",
-      "iso_date": "2026-08-13T07:00:00+00:00",
-      "alert": false
-    },
-    {
       "id": "57fe0167673665ff5dc73cc6d42e3e02",
       "title": "Cet hôtel de luxe des Deux-Sèvres est en redressement judiciaire : six des onze salariés en arrêt maladie - Ouest-France",
       "source": "Google News",
@@ -610,19 +571,6 @@
       "geo_label": "International",
       "date": "12/08/2026",
       "iso_date": "2026-08-12T07:00:00+00:00",
-      "alert": false
-    },
-    {
-      "id": "2b11f3f80f234107885f9e01ed30a643",
-      "title": "Bon plan à Lille et dans les Hauts-de-France : des hôtels de luxe proposent des prix bas en août - Actu.fr",
-      "source": "Google News",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQS0hfenNXc2lyTk1sZjVMR2xLZkRaLUQtdlA1bzNRM3FjbXNCbXViODZidVlxZXZQbmZqVzktaUJ2RTRFbV9oWjhDQWdVTGh1RHlqWmM2c2s4aWdzWmt5allpMy1MYzI1WFp5aTMtZUJTRGI1LTFFYURwZVVsV0t4ZUNuUFE0Mm9qSzNncGR5VlpkRXlWZndoN1M5TkoxWFlrT3dqYWpISF9XUVk5Y1lSU0V5SWEwdzRiVFM4Y0ZaR3h3emJTWVFqb0p6NjVSSTUtWWNDR2w2YV9tYThPV0t3RmxOcW9GUWM?oc=5",
-      "excerpt": "Bon plan à Lille et dans les Hauts-de-France : des hôtels de luxe proposent des prix bas en août&nbsp;&nbsp;Actu.fr",
-      "cat": "tendance",
-      "geo": "france",
-      "geo_label": "France",
-      "date": "09/08/2026",
-      "iso_date": "2026-08-09T07:00:00+00:00",
       "alert": false
     },
     {
@@ -666,10 +614,10 @@
     },
     {
       "id": "7a1e8e9ff5d730e8d54863388440321f",
-      "title": "« Tout est fait pour vivre un moment exceptionnel » : cet hôtel et restaurant étoilé de Loire-Atlantique fait peau neuve - Nantes ma Ville",
+      "title": "« Tout est fait pour vivre un moment exceptionnel » : cet hôtel et restaurant étoilé de Loire-Atlantique fait peau neuve - nantes.maville.com",
       "source": "Google News",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOaTdLaU1VSnF0RkdKbW5QZzBPZ2EtaUNvUVRDUkRVUWJrbU5kZDZpU2RSUkI2X1MtWjk0M2ZxZ1dVZkpRU0JVUHVZZ3JRMWV1OHNzZ1ZVRHR5c1pqM3FKaHo2bUZxZjVIRHduZURzMjNzMEtvT2taMnAzWHpLZkUwRk1VWS1zN0FZVXpmNnpRTXBpdndsek1VSWVrRlhuQ0xpeWNFckdEZDRMZ3hIYkZCNm9xb1poYWwwUVE0TzkzVWtmdU9ZNml3ZjdVMW9Sd0c5NnFsR2ZlNzdyS1p3YUVRcGp3LTNDSmZST3lSMmRUM1kxNk9fYU5Rc1gtZUF4anlfX3dLRVVRZw?oc=5",
-      "excerpt": "« Tout est fait pour vivre un moment exceptionnel » : cet hôtel et restaurant étoilé de Loire-Atlantique fait peau neuve&nbsp;&nbsp;Nantes ma Ville",
+      "excerpt": "« Tout est fait pour vivre un moment exceptionnel » : cet hôtel et restaurant étoilé de Loire-Atlantique fait peau neuve&nbsp;&nbsp;nantes.maville.com",
       "cat": "gastronomie",
       "geo": "france",
       "geo_label": "Loire-Atlantique",
@@ -678,16 +626,16 @@
       "alert": true
     },
     {
-      "id": "230711af3d783c5fd698a555fae6a897",
-      "title": "À quoi peut bien ressembler le « meilleur hôtel du monde », situé à Paris ? On vous emmène faire une visite des lieux - Ouest-France",
+      "id": "be608895a919d8219047b33124ca2da5",
+      "title": "Dormir dans un château : les plus beaux hôtels de France - yonder.fr",
       "source": "Google News",
-      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNdWlOZ2Q5R3F6MXMtVDdqbjVfQ3ZZNE1Ock1YM1VTNlI5b0dqTm5KWjJwT2FFVXYtN1B0NnN2bWlYamdGbkl0VW5pNW5MRG5vWFNucFF4UEViZ2JMLUF1NmpXR0FqamMwQVM3dWVUQTF6MldwNzNmZmM2anlVOFNiS0RQVzRpa2VfajZzejNQRVEtNU1ZTGRVeGw3VzRKQzhfME5LbVJVeGZPamUwRi1WZWdWUXZVTmh0bnBIRGlPdU9WS2sza2NMTDRhRHY2bTZDSzlXUUFyXzVVTEV0bTEzWjZQU1BHcUpGZlppZTBvMUxNNVAzd1ZacVVLQ0hKVmJnTXllZnJGNENUYmRZMVBkUjVBdDhRb2NvVVI2WjhkWWRQdW91T0lndQ?oc=5",
-      "excerpt": "À quoi peut bien ressembler le « meilleur hôtel du monde », situé à Paris ? On vous emmène faire une visite des lieux&nbsp;&nbsp;Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSXRRdkZoQ3BQc3VudGE4a2tUcWtlX05HNi1YNHhZYmFfUnMzWklYLXBtX2F1ajRHVm5TVWQ4WW5QdzF5SllrVzZ0TzhvMS1QRVgtdi15Rkg5YWRIR2pybWpmdmxud0VOX1ZKWlIwdHUweVhBYUw1QXQ0YzV1bGNMdDl3VGFsUnNETjA1bS0wZ2RYbFRQel9DQkNxOA?oc=5",
+      "excerpt": "Dormir dans un château : les plus beaux hôtels de France&nbsp;&nbsp;yonder.fr",
       "cat": "tendance",
       "geo": "france",
       "geo_label": "France",
-      "date": "31/07/2026",
-      "iso_date": "2026-07-31T07:00:00+00:00",
+      "date": "29/07/2026",
+      "iso_date": "2026-07-29T07:00:00+00:00",
       "alert": false
     },
     {
@@ -715,6 +663,19 @@
       "date": "24/07/2026",
       "iso_date": "2026-07-24T07:00:00+00:00",
       "alert": true
+    },
+    {
+      "id": "516036a93d963dc3845501681531870c",
+      "title": "Accor installe sa nouvelle marque d'hôtels de luxe en France - Journal du Luxe",
+      "source": "Google News",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNanRTY2JJTTVFaXkzZ2ZZR1BJakw1VF9rdkRTUkFOMVNyT0lEUXRFaDczMnpLZmVtRGVRSF83UkpZekZIaVJTRGcyUDh0MWtIZHgyOWhjclRuTE40cTE0S2FkbkkyeWpKN0ZRdnViRGV2X010eTdfYWJoSWdrRlNkRkxyMzhueWtxbkpjb0Rmd0tYY1luaTVuYjdKREkwdU9xSlo4LVBNeDZzN0xDczZfajVOZ3BmZXFrRUg0cUFkMUZwTWl5b1FNaVQxeTZBdzBzdVHSAdcBQVVfeXFMT0pMdUhTMXRaZmw1bVZIWEltajBCNmZaQjZBbVJRcXdCb3NVeFNha2VjLW0xUGpTeW9Nendxb2JFQjVmZGt1UDhRR1JBUzRNaU1oX3dtNTJnbXNuSU0zYmRsUS1SckYwd1V0VEF0RC1iNmpyMUtfdjBtZzRQYUc0MUxUUzNrRlNSQlkwZWJIQXVJYjlfYk1Jcjk1SmNnU1BqZUdZWkFySDc2U0Z3bXRwdTBBVnVyOFp6T0xlUUlGOXFDdzl3Wm4tOV9Kc291LUVqUjBodDltN28?oc=5",
+      "excerpt": "Accor installe sa nouvelle marque d'hôtels de luxe en France&nbsp;&nbsp;Journal du Luxe",
+      "cat": "tendance",
+      "geo": "france",
+      "geo_label": "France",
+      "date": "23/07/2026",
+      "iso_date": "2026-07-23T07:00:00+00:00",
+      "alert": false
     },
     {
       "id": "77977bf1417c66a128cb621eeb4e8413",
@@ -886,19 +847,6 @@
       "alert": true
     },
     {
-      "id": "7c441bbecee091f20af8d4e0d013ac9a",
-      "title": "Top 5 des hôtels de luxe à Strasbourg - yonder.fr",
-      "source": "Google News",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnMFlwQlhKd2RFR3lkU1FjLWloN1FWREhfcXBObjk5eGI4ZDRrZUE0V1dFZk1xbVV6dEFRX3J4bEhpNmdFOGVpcFQzVm40alUyb3JTS1pmUjg4Z3RneVVoclF3RUFJbzVmZGdHUzRWY2N3aFFJcmc?oc=5",
-      "excerpt": "Top 5 des hôtels de luxe à Strasbourg&nbsp;&nbsp;yonder.fr",
-      "cat": "tendance",
-      "geo": "france",
-      "geo_label": "France",
-      "date": "26/06/2026",
-      "iso_date": "2026-06-26T07:00:00+00:00",
-      "alert": false
-    },
-    {
       "id": "c4d5d289239451d3937ff1903062819e",
       "title": "Canicule 2026 : la fraîcheur devient le nouveau luxe des vacances - PAP",
       "source": "Google News",
@@ -977,19 +925,6 @@
       "alert": true
     },
     {
-      "id": "997dc0c703432dec252255363cec913a",
-      "title": "Le Château du Portereau, nouveau venu sur le marché MICE nantais - deplacementspros.com",
-      "source": "Google News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNTZVTkZ1SEdSb2owbDRTN1c5VGdGaU56d2c4Ni1CQWVfQTM4WVJ1Vmh2aDRaRmxubVVTSllNU1pDREVsZkxvd3UxaEU5UE5YdGwzMG1yQ3d6UjVvdTZVcTdmWVBBaHB2ckVzZVY2dXJ3dDdKSS1rT3RZR1lHeURPT3pDM0tkeEZCYjQ3WFRSMG1tazh1SV8xTWV2VDJkYmQ4d29v?oc=5",
-      "excerpt": "Le Château du Portereau, nouveau venu sur le marché MICE nantais&nbsp;&nbsp;deplacementspros.com",
-      "cat": "ouverture",
-      "geo": "france",
-      "geo_label": "Vertou",
-      "date": "10/06/2026",
-      "iso_date": "2026-06-10T07:00:00+00:00",
-      "alert": true
-    },
-    {
       "id": "b6ff05c598b197d7128ba17c8ddbb189",
       "title": "Mexican Hospitality Summit 2026 Closes with More Than 400 Industry Professionals and Announces Expansion Across Latin America - Hospitality Net",
       "source": "Google News",
@@ -1017,10 +952,10 @@
     },
     {
       "id": "b3c69fba82cecdefab4442e4cd0e775b",
-      "title": "Les retombées économiques du tourisme sont évaluées à 3,3 milliards d'euros en Loire-Atlantique - lejournaldesentreprises.com",
+      "title": "Les retombées économiques du tourisme sont évaluées à 3,3 milliards d'euros en Loire-Atlantique - Le Journal des Entreprises",
       "source": "Google News",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOGtQMlRTeXFoY016b1FjTkZ1Vll0UWRvcjBqSzA1czlFazViblJmSEV0ZGpPSjQ2SERBVXBjZGZuVFpxOENjNzBKbGtPS1BDMF9xaVRiMFpLUXdvVUNLckxWS3Bka1h3eUtHLXJLV0RZaGJrRFItYUNVVG1vVWxEeVo5VkpvX2lSQXJkQkl6ZmlidE9kSG9WTWctb3ozWEd1ZHJXNHRiX1RXbWVzaVdQSElsZ0VKZjRCMC1YbFVLQzQ0X2lFZnFGdGVNVnFQWkpMZVNYcW9VRmlERGNQS09WSw?oc=5",
-      "excerpt": "Les retombées économiques du tourisme sont évaluées à 3,3 milliards d'euros en Loire-Atlantique&nbsp;&nbsp;lejournaldesentreprises.com",
+      "excerpt": "Les retombées économiques du tourisme sont évaluées à 3,3 milliards d'euros en Loire-Atlantique&nbsp;&nbsp;Le Journal des Entreprises",
       "cat": "innovation",
       "geo": "france",
       "geo_label": "Loire-Atlantique",
@@ -1043,10 +978,10 @@
     },
     {
       "id": "c25a8b2763050ca5d56f39befecb1f28",
-      "title": "Le tourisme croisière et train progresse : voici pourquoi - Euronews",
+      "title": "Le tourisme croisière et train progresse : voici pourquoi - Euronews.com",
       "source": "Google News",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTVZPZzZUX1plODZ1OGlWalNpU0R3bERqY2NvSXJ3b2p1UVNYcU00SGhOQThLQm00RGlLNjRPcWRranVZVURyMGt5a2t6aHVMMGVVNDI2RENRaW9iN25QbDFCZ2ZSeFV4UUs4V1ZiWk5CZ052b0lnd0lkMHphV284SXcyVUg0V3lIRHpUdE92LWRvNFUySmZTSlBIMmRNTEpxYU9RakZaMDh1aVprX1dqdk1zaTZFZnJQWUxpb3ZqMjBuSGtqZXc?oc=5",
-      "excerpt": "Le tourisme croisière et train progresse : voici pourquoi&nbsp;&nbsp;Euronews",
+      "excerpt": "Le tourisme croisière et train progresse : voici pourquoi&nbsp;&nbsp;Euronews.com",
       "cat": "tendance",
       "geo": "france",
       "geo_label": "France",
@@ -1056,10 +991,10 @@
     },
     {
       "id": "36a610adf96538f21436e1274bbd30e6",
-      "title": "Luxe : quels sont les six nouveaux hôtels français admis dans le cercle très fermé des palaces ? - Sud Ouest",
+      "title": "Luxe : quels sont les six nouveaux hôtels français admis dans le cercle très fermé des palaces ? - sudouest.fr",
       "source": "Google News",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNekRjUU5zUnh5TFRXa1ZmV0s1ZXl1eHdid3YwaUdFUG5IelV4RG5KRFVQdkpoOEtvQXlZQVNXNzFCaGs0WUM5WWJwTnVJYkUyR0RueHUwdXFmd1ZTdUdTcDFJczA5T3ZVdGpfTmh2dWpodGYzTHdMNlk5aUlGeGRaQUlmRjdBOTlBc2stVDNxVGlwejZUa3BtWUxhNy1ObGE0akdvZm9Zb0ZjckVaOXlueFYycVd0bGNRZnZ4amo0YnJSeHFsY2dHVTd1aE1YLTlLbUlTNkRlRXhOMGNKX1FzNg?oc=5",
-      "excerpt": "Luxe : quels sont les six nouveaux hôtels français admis dans le cercle très fermé des palaces ?&nbsp;&nbsp;Sud Ouest",
+      "excerpt": "Luxe : quels sont les six nouveaux hôtels français admis dans le cercle très fermé des palaces ?&nbsp;&nbsp;sudouest.fr",
       "cat": "ouverture",
       "geo": "france",
       "geo_label": "France",
@@ -1081,11 +1016,24 @@
       "alert": true
     },
     {
+      "id": "5cfdd91028f6174441b5393624b9eb3a",
+      "title": "Six hôtels rejoignent le cercle très fermé des Palaces ! - tourmag.com",
+      "source": "Google News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYWZkTUw0Rmhhd3ZJbTlESEFjZURUTXZhZk9MU1ZLdmpUTFh0TTQyeFM4VTVUcXR4T0U4LUs5cVBZXzNkUTZLLVFaRE5GUHhFVkdhdUNlbzlsbjR3TzdDblBlT3NBZWJvOW9tNFZPeXR5QzlxTVZNaEtodVYwTG4xVjNYb3BwZGdYSmtqcFJSWk53V3JRMlk4?oc=5",
+      "excerpt": "Six hôtels rejoignent le cercle très fermé des Palaces !&nbsp;&nbsp;tourmag.com",
+      "cat": "tendance",
+      "geo": "france",
+      "geo_label": "France",
+      "date": "02/06/2026",
+      "iso_date": "2026-06-02T07:00:00+00:00",
+      "alert": false
+    },
+    {
       "id": "50691031294f7fab859907fe65f1e119",
-      "title": "Aux portes de Nantes, le Château du Portereau ouvre ses portes - tendancehotellerie.fr",
+      "title": "Aux portes de Nantes, le Château du Portereau ouvre ses portes - TendanceHotellerie",
       "source": "Google News",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeVVPLVFkNmlRUHNvQ2E1d3VYVUVlNFRaMzZhQzFYaEZsZnlRcjEzN2trRmJYTDZEYldYOUNrSXVTSHhkc0kwOTRGUEVwSnplX09hVE9BUG8zU0IxTEpuaDRQNm0zcUh5WXhSd21EUGpCeVNEV245LUo3SE5RWTFTWVEtajhLOEUyZklEVjdmYmtPTkJBVEtfWjNwRkNaQ3l4akVtWlhQLWpOZEtVMDRqX0dPR1ZuLXlGVVA4VGlIaURPWXpQTDBDRVdyS25ZRDRnSm1GZGllTVZMakpyaVNZ?oc=5",
-      "excerpt": "Aux portes de Nantes, le Château du Portereau ouvre ses portes&nbsp;&nbsp;tendancehotellerie.fr",
+      "excerpt": "Aux portes de Nantes, le Château du Portereau ouvre ses portes&nbsp;&nbsp;TendanceHotellerie",
       "cat": "ouverture",
       "geo": "france",
       "geo_label": "Loire-Atlantique",
@@ -1118,6 +1066,32 @@
       "date": "28/05/2026",
       "iso_date": "2026-05-28T07:00:00+00:00",
       "alert": true
+    },
+    {
+      "id": "dadc2e8dff6ced99134968e693d2ec07",
+      "title": "The Nordics Hotel Guide 2026: Sweden's Special Awards - falstaff.com",
+      "source": "Google News",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQME4ySG1nZ3RUWHpKTzBjMnN5c1ljTGk4dEh0d051LWN5UWszUHF6ZHlwNzlkTjF5MkZMaHhzeWxKdnIxbl9nSkxsdmRaRlVpUm53TVFVSGRqMkkxTTlWQkZaa1FjcWVCTi1WZEgyMXlFMmRPNGYxQ2tscXJWYnlSektWaVBkYUppelNTLQ?oc=5",
+      "excerpt": "The Nordics Hotel Guide 2026: Sweden's Special Awards&nbsp;&nbsp;falstaff.com",
+      "cat": "innovation",
+      "geo": "international",
+      "geo_label": "International",
+      "date": "26/05/2026",
+      "iso_date": "2026-05-26T07:00:00+00:00",
+      "alert": false
+    },
+    {
+      "id": "497f7c74b74481c9afb42d47dcf90139",
+      "title": "Coup dur : trois grands hôtels de luxe en France perdent leur statut de « palace » - Euronews.com",
+      "source": "Google News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0ZuWWoxRWZaUHFybmlPX250VXd2MzRGbjBVVkMzQWJYM2JvY0s4d1JBdGFyQWxXQU5Ydmg0bU5SUXBYNEdGQ1RKd1YtTUQxWXBHQkNVU2JGZFZuN3RtXzhHWlVZXzNna2prNXFwUldaVWt4N1NMZmxaQU5LNUxiVlViM2lKUE9GX3pnSThsQWJOMmVZUk90Y01lU1RkWWFVYzN3cFp1WUExWkN6MW82Rg?oc=5",
+      "excerpt": "Coup dur : trois grands hôtels de luxe en France perdent leur statut de « palace »&nbsp;&nbsp;Euronews.com",
+      "cat": "tendance",
+      "geo": "france",
+      "geo_label": "France",
+      "date": "25/05/2026",
+      "iso_date": "2026-05-25T07:00:00+00:00",
+      "alert": false
     },
     {
       "id": "bc5d5b57ad2cf2bbcd8149ced079590c",
@@ -1173,10 +1147,10 @@
     },
     {
       "id": "c36f66ad8ff26f974b780514868c73d6",
-      "title": "Salons, foires et conventions à Paris : agenda de mai 2026 - paris.evous.fr",
+      "title": "Salons, foires et conventions à Paris : agenda de mai 2026 - Paris evous",
       "source": "Google News",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3dDNISGpTNW5Ec0FGRHVEcnBhTllPOGxwVEoyYWw1Wkp4RHVZT2tqdnhvTXlWbFRhbjNGdkF1T0ZCbFVCMDA3d3hSSTRuOWljS0E?oc=5",
-      "excerpt": "Salons, foires et conventions à Paris : agenda de mai 2026&nbsp;&nbsp;paris.evous.fr",
+      "excerpt": "Salons, foires et conventions à Paris : agenda de mai 2026&nbsp;&nbsp;Paris evous",
       "cat": "mice",
       "geo": "france",
       "geo_label": "France",
@@ -1195,19 +1169,6 @@
       "geo_label": "Pays de la Loire",
       "date": "26/04/2026",
       "iso_date": "2026-04-26T07:00:00+00:00",
-      "alert": false
-    },
-    {
-      "id": "a308203f8e3f590b11928137493dc99d",
-      "title": "Idée escapade : Le Château de Fiac, le luxe contemporain - InfoTravel.fr",
-      "source": "Google News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeDVaT0ZZYnhmdlQxQkJib00xenBrRzBPRzFQMWV5SU1oSjI2Q2FuaDhERzh5WkhaNXpZanJ2V2FmZWItU3FlMWNNcldFWEUxc0RwdWpUbHBOQUJzdXAyQ0xvbk40NkF1WXZ6b1BfbUFMdDd5UjA4NjJtTDgza29pZ2xuRVdVWEZFbVFDUlFVRzlPTnJhdWc?oc=5",
-      "excerpt": "Idée escapade : Le Château de Fiac, le luxe contemporain&nbsp;&nbsp;InfoTravel.fr",
-      "cat": "innovation",
-      "geo": "france",
-      "geo_label": "France",
-      "date": "20/04/2026",
-      "iso_date": "2026-04-20T07:00:00+00:00",
       "alert": false
     },
     {
@@ -1248,6 +1209,19 @@
       "date": "17/04/2026",
       "iso_date": "2026-04-17T07:00:00+00:00",
       "alert": true
+    },
+    {
+      "id": "52fb12d4f64686d01c282fd5b6b10561",
+      "title": "Mandarin Oriental Hotel Demolition on Brickell Key, Miami, Marks End of Luxury Landmark - Parametric Architecture",
+      "source": "Google News",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1PX1FUX21BVUhiTFRhN05FSkVLRkVwMHZ1UkpQcmxKdTUzblBPNEdPdGhWbWl6QnRXc1IwSzlxcGU5ZmJCdUpkelNUSGxCY3VKSE9KZE5tZTRCRzVJWW9JbzhLUlNYVkJIYmg4SVFlWTBKdkJNem9SMzIzaw?oc=5",
+      "excerpt": "Mandarin Oriental Hotel Demolition on Brickell Key, Miami, Marks End of Luxury Landmark&nbsp;&nbsp;Parametric Architecture",
+      "cat": "concurrence",
+      "geo": "international",
+      "geo_label": "International",
+      "date": "13/04/2026",
+      "iso_date": "2026-04-13T07:00:00+00:00",
+      "alert": false
     },
     {
       "id": "1d1703cb4e7fb375fd63b12159316dc0",
@@ -1341,6 +1315,19 @@
       "alert": true
     },
     {
+      "id": "04354de989c635aa32c68f61f8916f84",
+      "title": "\"L'hôtellerie de luxe devra évoluer si elle veut faire face à ses besoins de recrutement\" - tourmag.com",
+      "source": "Google News",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaXZuZ29FSGJudm45YVNSMHlMLXlVZElRRGx3TkRwaU92WTQ4a2N2bjFNWWRpbTlSb1pnRGdPampZeGFESGFlbkdNU0E4Nm5DSDlNa1JUeXJOVEhVYnFNV1F4NHRoLUZYNmFxclhSUS1sdXlnZmlUQ2pVc0RZdldwNFJ6TnFwMG05a2tKSW5tOXNpdXF4a01IeTczOFdnWG5oSnhBOGVTaWRDM1Z1R2FOekE1eTM0UTlGNXV1b2pjekNldw?oc=5",
+      "excerpt": "\"L'hôtellerie de luxe devra évoluer si elle veut faire face à ses besoins de recrutement\"&nbsp;&nbsp;tourmag.com",
+      "cat": "tendance",
+      "geo": "france",
+      "geo_label": "France",
+      "date": "23/03/2026",
+      "iso_date": "2026-03-23T07:00:00+00:00",
+      "alert": false
+    },
+    {
       "id": "1bc49f99435cd95f039b776695c6441b",
       "title": "Les plus beaux hôtels près des Châteaux de la Loire - yonder.fr",
       "source": "Google News",
@@ -1351,6 +1338,19 @@
       "geo_label": "Pays de la Loire",
       "date": "19/03/2026",
       "iso_date": "2026-03-19T07:00:00+00:00",
+      "alert": false
+    },
+    {
+      "id": "b8f740aaa499d44af9eaf317adc7ce29",
+      "title": "Hôtels de luxe pas chers : les promos de printemps - yonder.fr",
+      "source": "Google News",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRFhmYzJMdWFQb0t0VjJHYWozY0N3bkJmTVN2aUxRUlpGTlZiMmJPVExpZzU2clM5WVd1NzVSYUREMkZiX0tqanhoYXd6amFxclZYMy1iNmViZ25OUW9tMm5VSE5BdlhkdVVkMEZmYVN3bkQ3dmJXcjFuRG9IZkZia09RblViQQ?oc=5",
+      "excerpt": "Hôtels de luxe pas chers : les promos de printemps&nbsp;&nbsp;yonder.fr",
+      "cat": "tendance",
+      "geo": "france",
+      "geo_label": "France",
+      "date": "17/03/2026",
+      "iso_date": "2026-03-17T07:00:00+00:00",
       "alert": false
     },
     {
@@ -1368,10 +1368,10 @@
     },
     {
       "id": "c840ac5ed6c983d9cb252453d6be149d",
-      "title": "Guide MICHELIN France 2026 : la scène gastronomique parisienne - MICHELIN Guide",
+      "title": "Guide MICHELIN France 2026 : la scène gastronomique parisienne - guide.michelin.com",
       "source": "Google News",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT1ZSM2pyTE4xSklUQlJQZW9CSElVMmpCWDlfVkVFa1pQdkVDVkd3MXlUTV9yQTBmdTRTWHk2NGZXTU9DNkx2TGhmaXVaUUd1X09JT0pZdnRrSWxBZHRuOFd1VmVHUHphY0YtSENqZ2Q5VzNUWXpvX1BvbnJOY0pqcHpzLWtpUkZyaldZNmdMME0zdlhfSDhFR2dweGpmb01OSnBYVWdsSG03WnU3eUg3ZGRoMHVIR2w0aklMeWhUTQ?oc=5",
-      "excerpt": "Guide MICHELIN France 2026 : la scène gastronomique parisienne&nbsp;&nbsp;MICHELIN Guide",
+      "excerpt": "Guide MICHELIN France 2026 : la scène gastronomique parisienne&nbsp;&nbsp;guide.michelin.com",
       "cat": "gastronomie",
       "geo": "france",
       "geo_label": "France",
@@ -1420,10 +1420,10 @@
     },
     {
       "id": "1e47770978970fd9628050894c3521e3",
-      "title": "Gastronomie : l’étoile Michelin fait-elle recette ? - bigmedia.bpifrance.fr",
+      "title": "Gastronomie : l’étoile Michelin fait-elle recette ? - Bpifrance",
       "source": "Google News",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWnhPbVpYa2k3WUZ5R2EtMjZnTVpEdVNOb2VJWHg1QVEtakR0Ulp1Ukd0a0NLZWQ3MV90SFdYa0VaYl8tVFdrZnJxUnZMVklYUWpxRnhlX2ljUDlYZDBNSXhnSTBMdFU2bU1hRFl0TjdGWlRybFYtbEFacWpjMmx3cThjV3hwYTgzbzMzM1VucXppdXlUbXc?oc=5",
-      "excerpt": "Gastronomie : l’étoile Michelin fait-elle recette ?&nbsp;&nbsp;bigmedia.bpifrance.fr",
+      "excerpt": "Gastronomie : l’étoile Michelin fait-elle recette ?&nbsp;&nbsp;Bpifrance",
       "cat": "gastronomie",
       "geo": "france",
       "geo_label": "France",
@@ -1498,10 +1498,10 @@
     },
     {
       "id": "f8f8d2f2de9e0b4fa69367a3eb25c001",
-      "title": "Hôtellerie en 2026 : Entre hyper-luxe, IA et résilience, le secteur du tourisme évolue - bigmedia.bpifrance.fr",
+      "title": "Hôtellerie en 2026 : Entre hyper-luxe, IA et résilience, le secteur du tourisme évolue - Bpifrance",
       "source": "Google News",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUFJ4dXNVV19QdnhvR0cyYTEzSXpIMDRqQmpaVHJPT1YwMEV5QW14cVlLZlIwZVVOQ3hCdmp3eXR0OTNOdmdmREF5VDRQbmtTZDFRTmhkd3EwRWgxM3lUaFQ1UVZUQm4xY05HS1AyeUcxRmxwcXFnN3Axd3RBcE1ZN1hJWE1scTJRb3dGQXlZbG9JaG4yNXh6TThWRW1VWTFSN3Bmckw1S1ZMNEpucHdSVzlZNTNzMTM5TEI4Z1J3S3JRdXZpbmc?oc=5",
-      "excerpt": "Hôtellerie en 2026 : Entre hyper-luxe, IA et résilience, le secteur du tourisme évolue&nbsp;&nbsp;bigmedia.bpifrance.fr",
+      "excerpt": "Hôtellerie en 2026 : Entre hyper-luxe, IA et résilience, le secteur du tourisme évolue&nbsp;&nbsp;Bpifrance",
       "cat": "innovation",
       "geo": "france",
       "geo_label": "France",
@@ -1537,10 +1537,10 @@
     },
     {
       "id": "5768337212fa6ba406caf00e59e2b4da",
-      "title": "Afrique du Sud, du slow travel au rythme des trains - luxe-infinity.com",
+      "title": "Afrique du Sud, du slow travel au rythme des trains - Luxe Infinity",
       "source": "Google News",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaENWMXVKZGxvY2UtZXpUYVE5LV81TFBfWVREd2hHZ1pXQi1TWXdsejZBWWVDSGx2RjU2VWZ6MGhrTWdGV2VYSERQRXhKa1dEOHJwUTRUTExlOUJsNmxMdzZ6aGlwdk1EQnFyemIydUxFZDVHcnJkWWVLblVOWmlweXdyLVRpcU1uYUZMeDY4RXJWRmRqSDBUSHVRQQ?oc=5",
-      "excerpt": "Afrique du Sud, du slow travel au rythme des trains&nbsp;&nbsp;luxe-infinity.com",
+      "excerpt": "Afrique du Sud, du slow travel au rythme des trains&nbsp;&nbsp;Luxe Infinity",
       "cat": "tendance",
       "geo": "france",
       "geo_label": "France",
